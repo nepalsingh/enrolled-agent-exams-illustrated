@@ -1,5 +1,20 @@
 # SEE Part 1: Individuals
 
+```mermaid
+flowchart LR
+  A["Part 1 Individuals"] --> B["3.5 hours"]
+  B --> C["100 questions"]
+  C --> D["85 scored"]
+  C --> E["15 experimental"]
+  D --> F["Pass: scaled 500"]
+  D --> G["Domain 1: 14"]
+  D --> H["Domain 2: 17"]
+  D --> I["Domain 3: 17"]
+  D --> J["Domain 4: 15"]
+  D --> K["Domain 5: 11"]
+  D --> L["Domain 6: 11"]
+```
+
 **Study guide for Nepal Singh**
 
 This guide follows the IRS Special Enrollment Examination Candidate Information Bulletin revised **October 9, 2026**, published by PSI Services LLC. That bulletin is the official specification for this cycle. It replaces the older Prometric bulletin.
@@ -254,6 +269,13 @@ The senior deduction requires birth before January 2, 1961, and a valid Social S
 Publication 17 (2025) also describes a Trump account and Form 4547. A child born after 2024 and before 2029 who is a U.S. citizen may qualify for a $1,000 pilot contribution, elected with the 2025 return. Read Form 4547 before you advise on it. It is new, and the exam can ask only the rule that was in the instructions through December 31, 2025.
 
 ### Practice questions
+
+```mermaid
+flowchart TD
+  A["Read December 31"] --> B["Pick the status"]
+  B --> C["Test each dependent"]
+  C --> D{"Must this person file?"}
+```
 
 **1.** Priya is single, under 65, and not a dependent. Her 2025 gross income is $15,000, all from wages, and her employer withheld federal income tax. Which statement is correct?
 
@@ -553,6 +575,12 @@ Compensation is required. A child with no earned income cannot contribute. A wor
 
 ### Practice questions
 
+```mermaid
+flowchart TD
+  A["Name the receipt"] --> B{"Taxable, excluded, or basis?"}
+  B --> C["Report it on the right form"]
+```
+
 **1.** A taxpayer received $1,000 of interest on a state municipal bond in 2025 and also received Social Security benefits. How is the bond interest treated?
 
 A. It is omitted from the return because it is tax-exempt.
@@ -786,6 +814,12 @@ Confirm the maximum and the phaseout table in the 2025 Form 1040 instructions or
 
 ### Practice questions
 
+```mermaid
+flowchart TD
+  A["Start from AGI"] --> B{"Standard or itemized?"}
+  B --> C["Then credits, in order"]
+```
+
 **1.** A taxpayer’s 2025 adjusted gross income is $40,000. Qualified medical expenses are $4,000. None were reimbursed, and none were deducted as self-employed health insurance. How much is deductible on Schedule A?
 
 A. $4,000.
@@ -956,6 +990,12 @@ flowchart TD
 
 ### Practice questions
 
+```mermaid
+flowchart TD
+  A["Compute regular tax"] --> B["Add the extra taxes"]
+  B --> C["Subtract payments and credits"]
+```
+
 **1.** A single taxpayer’s 2025 modified AGI is $220,000. Net investment income is $10,000. The rest of the income is wages. What is the net investment income tax?
 
 A. 3.8 percent of $220,000.
@@ -1118,6 +1158,12 @@ flowchart TD
 **Traps.** Filing Form 8379 to escape a spouse’s unreported income. That is Form 8857. Choosing married filing separately and then claiming the American opportunity credit. Missing a refund because the three-year period ran while the taxpayer waited for a corrected 1099. Increasing an estimate in January and assuming it is treated like December withholding.
 
 ### Practice questions
+
+```mermaid
+flowchart TD
+  A["What is the client deciding?"] --> B["Year, status, or claim"]
+  B --> C["Apply the deadline"]
+```
 
 **1.** A married couple wants the lowest legal tax on a correct return, and they also want each spouse protected from liability for the other spouse’s unreported income. Which point do you tell them?
 
@@ -1322,6 +1368,12 @@ These forms are attached to the income tax return or filed as their instructions
 **Traps.** Filing Form 8938 and believing the FBAR is satisfied. Reporting foreign stock held in a brokerage account both as the account and again as each stock. Reporting a house the taxpayer owns in another country on the FBAR. Using the Form 8938 “living abroad” thresholds for a taxpayer who lives in the United States and takes a vacation abroad. Forgetting signature authority over a parent’s foreign account.
 
 ### Practice questions
+
+```mermaid
+flowchart TD
+  A["Estate, gift, or foreign asset?"] --> B["Match the form"]
+  B --> C["Then the due date or threshold"]
+```
 
 **1.** A decedent died on March 1, 2025. The gross estate plus adjusted taxable gifts exceeds the 2025 basic exclusion amount. When is Form 706 due if no extension is filed?
 

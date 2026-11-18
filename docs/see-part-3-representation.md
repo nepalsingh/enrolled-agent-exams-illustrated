@@ -1,5 +1,18 @@
 # SEE Part 3: Representation, Practices, and Procedures
 
+```mermaid
+flowchart LR
+  A["Part 3 Representation"] --> B["3.5 hours"]
+  B --> C["100 questions"]
+  C --> D["85 scored"]
+  C --> E["15 experimental"]
+  D --> F["Pass: scaled 500"]
+  D --> G["Domain 1: 26"]
+  D --> H["Domain 2: 25"]
+  D --> I["Domain 3: 20"]
+  D --> J["Domain 4: 14"]
+```
+
 Study guide for Nepal Singh.
 
 This guide follows the **PSI Candidate Information Bulletin, Internal Revenue Service Enrolled Agent Special Enrollment Examination, revised October 9, 2026**. PSI administers the exam. The IRS enrolled-agent FAQ (scheduling answer updated August 26, 2026) points to that bulletin. A May 1, 2026 start is the old general pattern. For this cycle the bulletin sets a different window: **July 1, 2026, through February 28, 2027**, for domestic candidates. International testing was delayed when the bulletin was revised. Older Prometric outline PDFs are not the bulletin for this window.
