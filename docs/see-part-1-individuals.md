@@ -1,19 +1,6 @@
 # SEE Part 1: Individuals
 
-```mermaid
-flowchart LR
-  A["Part 1 Individuals"] --> B["3.5 hours"]
-  B --> C["100 questions"]
-  C --> D["85 scored"]
-  C --> E["15 experimental"]
-  D --> F["Pass: scaled 500"]
-  D --> G["Domain 1: 14"]
-  D --> H["Domain 2: 17"]
-  D --> I["Domain 3: 17"]
-  D --> J["Domain 4: 15"]
-  D --> K["Domain 5: 11"]
-  D --> L["Domain 6: 11"]
-```
+![Part 1 exam map](illustrations/part-1-exam-map.svg)
 
 **Study guide for Nepal Singh**
 
@@ -51,19 +38,7 @@ Primary sources are the bulletin’s Part 1 outline, Publication 17 (2025), and 
 
 ## How to use this guide with Fast Forward Academy
 
-```mermaid
-flowchart LR
-  w1["FFA webinar: Taxpayers"] --> d1["Domain 1"]
-  w2["FFA webinar: Total income"] --> d2["Domain 2"]
-  w3["FFA webinar: Gains and losses"] --> d2
-  w4["FFA webinar: Exclusions"] --> d1
-  w5["FFA webinar: AGI"] --> d2
-  w6["FFA webinar: Deductions"] --> d3["Domain 3"]
-  w7["FFA webinar: Taxes"] --> d4["Domain 4"]
-  w8["FFA webinar: Credits"] --> d3
-  w9["FFA webinar: Filing"] --> d5["Domain 5"]
-  w10["FFA webinar: Specialized"] --> d6["Domain 6"]
-```
+![Study path](illustrations/part-1-study-path.svg)
 
 Fast Forward Academy’s public Part 1 bootcamp is organized as ten webinars: taxpayers and dependents, total income, gains and losses, income exclusions, adjusted gross income, deductions from AGI, taxes, credits, filing considerations, and specialized returns. The exam is scored on the six domains in the table above. Read the matching domain in this guide, then drill that domain in Fast Forward Academy.
 
@@ -80,17 +55,7 @@ Read the rules here until you can say the form number and the decision out loud.
 
 ## Domain 1 — Preliminary Work with Taxpayer Data
 
-```mermaid
-flowchart TD
-  prior["Prior-year return"] --> compare["Match names, carryovers, and payments"]
-  compare --> who["Who is the taxpayer on December 31"]
-  who --> status["Choose the filing status"]
-  status --> deps["Test each dependent"]
-  deps --> world["List worldwide income and exclusions"]
-  world --> extra{"Another form?"}
-  extra -->|Yes| flag["Flag 706, 709, FBAR, 8938, 8962, or 8379"]
-  extra -->|No| prep["Prepare the 1040 family"]
-```
+![Preliminary work](illustrations/part-1-preliminary-work.svg)
 
 **14 scored questions, about 16% of the exam**
 
@@ -98,20 +63,7 @@ This domain is the interview before any number is computed. You are tested on wh
 
 ### Filing requirements, due dates, and filing status
 
-```mermaid
-flowchart TD
-  dec["Look at December 31"] --> died{"Spouse died this year?"}
-  died -->|Yes| yearof["Joint return is available for the year of death"]
-  died -->|No| prior{"Died in one of the prior two years?"}
-  prior -->|Yes| qss{"Not remarried, child in the home, you paid over half?"}
-  qss -->|Yes| qssyes["Qualifying surviving spouse"]
-  qss -->|No| singlepath["Test single or head of household"]
-  prior -->|No| now{"Married at year end?"}
-  now -->|No| singlepath
-  now -->|Yes| apart{"Apart the last 6 months and head-of-household tests met?"}
-  apart -->|Yes| hoh["Head of household"]
-  apart -->|No| jointchoice["Married filing jointly or separately"]
-```
+![Filing status](illustrations/part-1-filing-status.svg)
 
 A U.S. citizen or resident alien files based on gross income, filing status, age, and whether someone else can claim them. Gross income includes worldwide income that is not exempt, including foreign earned income you later exclude on Form 2555, and gain from selling a main home even when section 121 excludes some of it. Publication 501 (2025) states that rule in the filing chapter and in the note under Table 1.
 
@@ -165,15 +117,7 @@ Married filing separately usually produces a higher tax. For 2025 the Form 1040 
 
 ### Residency, identity, and what the prior year still controls
 
-```mermaid
-flowchart TD
-  id["Name, date of birth, SSN or ITIN, IP PIN"] --> card{"Green card at year end?"}
-  card -->|Yes| resident["Resident alien, worldwide income"]
-  card -->|No| spt{"Substantial presence met?"}
-  spt -->|Yes| resident
-  spt -->|No| nra["Nonresident, Form 1040-NR"]
-  resident --> prior["Pull carryovers and identity-protection PIN"]
-```
+![Residency](illustrations/part-1-residency.svg)
 
 **Identity.** The return name must match Social Security records. An ITIN is applied for on Form W-7. An ITIN is not work authorization. Beginning in 2025, the child tax credit and the additional child tax credit require a Social Security number that is valid for employment and issued by the due date of the return, including extensions. On a joint return only one spouse must have that work-eligible number; the other spouse needs an SSN or ITIN issued by that same date. The credit for other dependents is available with an SSN or ITIN issued by that date. The 2025 Instructions for Form 1040 and the Instructions for Schedule 8812 state those rules. An identity-protection PIN, once issued, belongs on the return. A return that needs the PIN and omits it is rejected. The outline also lists a state-issued photo ID among the facts you gather. Keep it with the due-diligence file for the earned income credit, the child tax credit, the American opportunity credit, and head of household. Form 8867 is the paid-preparer checklist. Rev. Proc. 2024-40 sets the 2025 section 6695(g) penalty at $650 per failure. Confirm that penalty figure against the 2025 Form 8867 instructions, and do not update it for any amount announced after December 31, 2025.
 
@@ -185,19 +129,7 @@ flowchart TD
 
 ### Dependency
 
-```mermaid
-flowchart TD
-  tests["Citizen or resident, joint-return, and not claimed by another"] --> qc{"Relationship, age, residency, support, joint return?"}
-  qc -->|All met| child["Qualifying child"]
-  qc -->|Fails age or residency| qr{"Not anyone's qualifying child?"}
-  qr -->|Yes| gross{"2025 gross income under $5,200?"}
-  gross -->|Yes| support{"You provided over half the support?"}
-  support -->|Yes| relative["Qualifying relative"]
-  gross -->|No| none["Not a dependent"]
-  child --> which{"Under 17 with a work SSN?"}
-  which -->|Yes| ctc["Child tax credit box"]
-  which -->|No| odc["Credit for other dependents box"]
-```
+![Dependency](illustrations/part-1-dependency.svg)
 
 Publication 501 (2025) is the authority. Three tests apply to every dependent: the person is a U.S. citizen, U.S. national, U.S. resident alien, or a resident of Canada or Mexico; the person does not file a joint return except to claim a refund of withholding or estimated tax; and you yourself are not a dependent of another taxpayer, unless that taxpayer files only to claim a refund of withholding or estimated tax.
 
@@ -228,16 +160,7 @@ There is no age test for a qualifying relative. A 30-year-old child who fails th
 
 ### Kiddie tax, health coverage, and the extra returns you flag now
 
-```mermaid
-flowchart TD
-  childinc["Child has unearned income"] --> age{"Under 18, or a student under 24 with low earned income?"}
-  age -->|Yes| form{"Interest and dividends only, inside the 8814 band?"}
-  form -->|Yes| elect["Parent may use Form 8814"]
-  form -->|No| f8615["Child files and uses Form 8615"]
-  age -->|No| own["Child's own return at the child's rates"]
-  cover["Marketplace coverage with advance credit"] --> f8962["File Form 8962"]
-  foreign["Foreign accounts or gifts"] --> later["Finish the rules in Domain 6"]
-```
+![Kiddie tax](illustrations/part-1-kiddie-tax.svg)
 
 **Kiddie tax.** The outline places minor children’s unearned income here. The tax, under section 1(g), applies the parents’ marginal rates to a child’s net unearned income when the child is under 18 at year-end, or is 18 and the child’s earned income does not exceed half of the child’s support, or is a full-time student age 19 through 23 and earned income does not exceed half of support. At least one parent must be alive, and the child must not file a joint return. Rev. Proc. 2024-40 sets the 2025 amount that reduces net unearned income at **$1,350**. The same revenue procedure says a parent may elect to include the child’s income only when the child’s gross income is more than $1,350 and less than **$13,500**, and the income is only interest, dividends, and capital-gain distributions. That election is Form 8814. Otherwise the child files Form 8615.
 
@@ -270,12 +193,7 @@ Publication 17 (2025) also describes a Trump account and Form 4547. A child born
 
 ### Practice questions
 
-```mermaid
-flowchart TD
-  A["Read December 31"] --> B["Pick the status"]
-  B --> C["Test each dependent"]
-  C --> D{"Must this person file?"}
-```
+![Domain 1 practice](illustrations/part-1-domain-1-practice.svg)
 
 **1.** Priya is single, under 65, and not a dependent. Her 2025 gross income is $15,000, all from wages, and her employer withheld federal income tax. Which statement is correct?
 
@@ -367,17 +285,7 @@ D. File Form 1095-A with FinCEN.
 
 ## Domain 2 — Income and Assets
 
-```mermaid
-flowchart TD
-  in["All accessions"] --> tax{"Excluded by a Code section?"}
-  tax -->|No| where["Put it on the right line or schedule"]
-  tax -->|Yes| report["Still report it when the form asks"]
-  where --> type{"What kind?"}
-  type --> wages["Wages and other income"]
-  type --> retire["Retirement distributions"]
-  type --> prop["Sales and basis"]
-  type --> adj["Adjustments that reduce AGI"]
-```
+![Income and assets](illustrations/part-1-income-assets.svg)
 
 **17 scored questions, about 20% of the exam**
 
@@ -385,15 +293,7 @@ This is the widest domain. Publication 17 (2025) is the map. You are tested on w
 
 ### Wages, interest, dividends, and other income
 
-```mermaid
-flowchart TD
-  item["An item of income"] --> wage{"Pay for services?"}
-  wage -->|Yes| w2["Form W-2, unless statutory or self-employed"]
-  wage -->|No| int{"Interest or dividends?"}
-  int -->|Yes| schb["Schedule B, then ordinary or qualified"]
-  int -->|No| other{"Excluded, or a recovery, or cancelled debt?"}
-  other --> sch1["Schedule 1 or Schedule E, or an exclusion form"]
-```
+![Wages and interest](illustrations/part-1-wages-interest.svg)
 
 **Wages.** Taxable compensation includes salaries, bonuses, tips, taxable fringe benefits, and most awards. Report them on Form 1040 from Form W-2. Exclusions you should be able to name, and then confirm in Publication 15-B for 2025, include employer health coverage, qualified dependent-care assistance within the statutory cap, and group-term life insurance up to $50,000 of coverage. Coverage over $50,000 is included in wages. Tips are wages even when the 2025 qualified-tip deduction on Schedule 1-A removes some of them from taxable income later. Combat pay may be excluded from income and still elected into earned income for the earned income credit and the additional child tax credit. Publication 3 and Schedule 8812, line 18b.
 
@@ -440,20 +340,7 @@ Collectibles gain is capped at 28 percent, and unrecaptured section 1250 gain is
 
 ### Retirement income
 
-```mermaid
-flowchart TD
-  dist["Distribution"] --> kind{"Which account?"}
-  kind -->|Traditional| basis{"Basis on Form 8606?"}
-  basis -->|Yes| part["Partly tax free"]
-  basis -->|No| all["Fully taxable"]
-  kind -->|Roth| qual{"Five years and a qualifying event?"}
-  qual -->|Yes| free["Qualified distribution is tax free"]
-  qual -->|No| order["Contributions out first, then conversions, then earnings"]
-  all --> early{"Under 59 and a half, and no exception?"}
-  part --> early
-  early -->|Yes| pen["Income tax plus 10 percent on Form 5329"]
-  early -->|No| taxonly["Income tax only, on the taxable part"]
-```
+![Retirement income](illustrations/part-1-retirement.svg)
 
 **Traditional and Roth.** Contributions and the deduction limits are in the adjustments section below. Distributions: a traditional IRA is taxable except for basis from nondeductible contributions, tracked on Form 8606. A qualified Roth distribution is tax free. It requires the five-year period and a qualifying event, generally age 59½, death, disability, or a first-time home purchase within the statutory lifetime cap. Nonqualified Roth distributions come out in order: contributions, then converted amounts, then earnings. Earnings are taxable. A conversion included in income is not taxed again. An early distribution of a conversion within five years can still draw the 10 percent additional tax. Publication 590-B.
 
@@ -479,20 +366,7 @@ flowchart TD
 
 ### Property: basis and dispositions
 
-```mermaid
-flowchart TD
-  got["How the asset was acquired"] --> buy["Purchase: cost"]
-  got --> gift{"Gift, and FMV below donor basis?"}
-  gift -->|No| carry["Carryover basis"]
-  gift -->|Yes| dual["Donor basis for gain, FMV for loss"]
-  got --> inh["Inheritance: FMV at death"]
-  sell["Disposition"] --> home{"Main home, section 121?"}
-  home -->|Yes| excl["Exclude eligible gain, not depreciation"]
-  home -->|No| char{"Holding period over one year?"}
-  char -->|Yes| lt["Long-term, Schedule D"]
-  char -->|No| st["Short-term"]
-  sell --> recap["Depreciation recapture is ordinary or unrecaptured 1250"]
-```
+![Basis and sale](illustrations/part-1-basis.svg)
 
 **Basis.** Publication 551.
 
@@ -522,15 +396,7 @@ flowchart TD
 
 ### Adjustments to income
 
-```mermaid
-flowchart TD
-  agi["Above-the-line adjustments"] --> se["Deductible half of self-employment tax"]
-  agi --> health["Self-employed health insurance"]
-  agi --> hsa["Health savings account, Form 8889"]
-  agi --> ira["IRA deduction, if allowed"]
-  agi --> other["Student-loan interest, educator expenses, military moves, pre-2019 alimony"]
-  other --> sched1["Schedule 1, not Schedule A"]
-```
+![Adjustments to income](illustrations/part-1-adjustments.svg)
 
 Adjustments reduce adjusted gross income. They are allowed even when the taxpayer takes the standard deduction. They are not itemized deductions, and they are not the Schedule 1-A deductions, which sit in their own place on the 2025 return.
 
@@ -575,11 +441,7 @@ Compensation is required. A child with no earned income cannot contribute. A wor
 
 ### Practice questions
 
-```mermaid
-flowchart TD
-  A["Name the receipt"] --> B{"Taxable, excluded, or basis?"}
-  B --> C["Report it on the right form"]
-```
+![Domain 2 practice](illustrations/part-1-domain-2-practice.svg)
 
 **1.** A taxpayer received $1,000 of interest on a state municipal bond in 2025 and also received Social Security benefits. How is the bond interest treated?
 
@@ -671,15 +533,7 @@ D. A partnership interest exchanged for another partnership interest.
 
 ## Domain 3 — Deductions and Credits
 
-```mermaid
-flowchart TD
-  agi["Adjusted gross income"] --> larger{"Itemized deductions larger than the standard deduction?"}
-  larger -->|Yes| scha["Schedule A"]
-  larger -->|No| std["Standard deduction"]
-  scha --> qbi["Then the QBI deduction, Form 8995 or 8995-A"]
-  std --> qbi
-  qbi --> cred["Nonrefundable credits, then refundable credits"]
-```
+![Deductions and credits](illustrations/part-1-deductions-credits.svg)
 
 **17 scored questions, about 20% of the exam**
 
@@ -687,15 +541,7 @@ Deductions from AGI and credits are one domain. The order on the return matters:
 
 ### Itemized deductions
 
-```mermaid
-flowchart TD
-  scha["Schedule A"] --> med["Medical above 7.5 percent of AGI"]
-  scha --> salt["State and local taxes, inside the 2025 cap"]
-  scha --> int["Home mortgage and investment interest"]
-  scha --> gift["Charitable gifts, with records"]
-  scha --> cas["Disaster casualty losses, Form 4684"]
-  scha --> oth["A short list of other itemized deductions"]
-```
+![Itemized deductions](illustrations/part-1-itemized.svg)
 
 Compare the total with the standard deduction before you commit. Married filing separately, if one spouse itemizes, the other itemizes. A nonresident on Form 1040-NR generally cannot take the standard deduction and uses the itemized-deduction rules in the 1040-NR instructions and Publication 519. Some itemized deductions that residents take are limited or disallowed for nonresidents. Confirm each line in those instructions.
 
@@ -736,15 +582,7 @@ Dollar limits, from the 2025 Schedule A instructions: qualifying debt taken out 
 
 ### Qualified business income deduction
 
-```mermaid
-flowchart TD
-  qbi["Qualified business income"] --> below{"2025 taxable income at or below the threshold?"}
-  below -->|Yes| simple["Form 8995, generally 20 percent, limited by taxable income"]
-  below -->|No| type{"Specified service trade or business?"}
-  type -->|Yes| phase["Deduction phases out across the phase-in range"]
-  type -->|No| wage["W-2 wage and property limit phases in"]
-  neg["A negative QBI amount"] --> carry["Carries forward and reduces a later year"]
-```
+![QBI deduction](illustrations/part-1-qbi.svg)
 
 Section 199A allows a deduction of up to 20 percent of qualified business income from a pass-through, plus 20 percent of qualified REIT dividends and publicly traded partnership income, limited to 20 percent of taxable income measured without the deduction itself. It does not reduce adjusted gross income. It is not an itemized deduction. A loss in one qualified business nets against income of another. A remaining negative amount carries forward.
 
@@ -762,13 +600,7 @@ At or below the threshold, use Form 8995. Specified service trades or businesses
 
 ### Credits
 
-```mermaid
-flowchart TD
-  tax["Income tax"] --> nonref["Nonrefundable credits reduce the tax"]
-  nonref --> more{"Tax still left, or a refundable piece?"}
-  more -->|Refundable piece| ref["Additional child tax credit, earned income credit, American opportunity, premium credit, excess withholding"]
-  more -->|Credit larger than tax, and not refundable| lost["The unused nonrefundable amount is lost, unless a carryforward exists"]
-```
+![Credits](illustrations/part-1-credits.svg)
 
 A nonrefundable credit can reduce tax to zero and then stops. A refundable credit can create a refund. Some credits are partly each. The outline’s list is the child and dependent care credit, the child tax credit and the credit for other dependents, education credits, the foreign tax credit, the earned income credit, adoption credits, the premium tax credit, and a group of other credits.
 
@@ -814,11 +646,7 @@ Confirm the maximum and the phaseout table in the 2025 Form 1040 instructions or
 
 ### Practice questions
 
-```mermaid
-flowchart TD
-  A["Start from AGI"] --> B{"Standard or itemized?"}
-  B --> C["Then credits, in order"]
-```
+![Domain 3 practice](illustrations/part-1-domain-3-practice.svg)
 
 **1.** A taxpayer’s 2025 adjusted gross income is $40,000. Qualified medical expenses are $4,000. None were reimbursed, and none were deducted as self-employed health insurance. How much is deductible on Schedule A?
 
@@ -910,16 +738,7 @@ D. Neither credit is allowed after the first year.
 
 ## Domain 4 — Taxation
 
-```mermaid
-flowchart TD
-  reg["Regular income tax"] --> other["Other taxes on Schedule 2"]
-  other --> amt["Alternative minimum tax"]
-  other --> se["Self-employment tax"]
-  other --> addl["Additional Medicare tax and net investment income tax"]
-  other --> hh["Household employment tax"]
-  other --> pen["Additional tax on early distributions and similar items"]
-  reg --> pay["Withholding, estimates, and refundable credits"]
-```
+![Taxation](illustrations/part-1-taxation.svg)
 
 **15 scored questions, about 18% of the exam**
 
@@ -927,16 +746,7 @@ Domain 4 is the tax itself, after income and deductions are known. The questions
 
 ### Taxes that sit on top of the regular tax
 
-```mermaid
-flowchart TD
-  item["A tax fact"] --> amt{"ISO bargain element, or private-activity bond interest?"}
-  amt -->|Yes| f6251["Run Form 6251"]
-  item --> magi{"MAGI over the statutory threshold, with investment income or earned income?"}
-  magi -->|Investment| niit["Net investment income tax, Form 8960"]
-  magi -->|Earned| amed["Additional Medicare tax, Form 8959"]
-  item --> ird{"Money the decedent had earned and not received?"}
-  ird -->|Yes| recip["Tax the recipient, no step-up"]
-```
+![Extra taxes](illustrations/part-1-extra-taxes.svg)
 
 **Alternative minimum tax.** Form 6251. The taxpayer pays the excess of tentative minimum tax over the regular tax. For 2025, Rev. Proc. 2024-40 sets these exemption amounts:
 
@@ -966,15 +776,7 @@ The credit for prior-year minimum tax, Form 8801, carries forward the minimum ta
 
 ### Employment taxes and special taxpayers
 
-```mermaid
-flowchart TD
-  work["Work income"] --> emp{"Whose worker?"}
-  emp -->|Self| sese["Schedule SE, then deduct half on Schedule 1"]
-  emp -->|Household| schh["Schedule H with the employer's 1040"]
-  emp -->|Two employers| ss{"Social Security wages over $176,100?"}
-  ss -->|Yes| credit["Excess Social Security tax is a credit"]
-  emp -->|Minister| clergy["Housing excluded from income, included in self-employment tax unless exempt"]
-```
+![Employment tax](illustrations/part-1-employment-tax.svg)
 
 **Self-employment tax.** Schedule SE. Net earnings from self-employment of $400 or more generally require the tax. Confirm that floor in the 2025 Schedule SE instructions. The tax is 12.4 percent for Social Security plus 2.9 percent for Medicare, which is 15.3 percent, applied to 92.35 percent of net earnings. The Social Security portion applies only until combined wages and self-employment earnings reach the 2025 wage base of **$176,100**. Publication 17 (2025) uses that wage base. Medicare has no wage base. Optional methods can produce a small amount of coverage when net earnings are low. Confirm the 2025 optional-method ceilings in the Schedule SE instructions before you compute them. One-half of the self-employment tax is the adjustment in Domain 2.
 
@@ -990,11 +792,7 @@ flowchart TD
 
 ### Practice questions
 
-```mermaid
-flowchart TD
-  A["Compute regular tax"] --> B["Add the extra taxes"]
-  B --> C["Subtract payments and credits"]
-```
+![Domain 4 practice](illustrations/part-1-domain-4-practice.svg)
 
 **1.** A single taxpayer’s 2025 modified AGI is $220,000. Net investment income is $10,000. The rest of the income is wages. What is the net investment income tax?
 
@@ -1086,13 +884,7 @@ D. The allowance is deductible on Schedule A as housing interest.
 
 ## Domain 5 — Advising the Individual Taxpayer
 
-```mermaid
-flowchart TD
-  advice["A planning question"] --> when["Which year should the income or deduction fall in?"]
-  when --> char["Is the character ordinary or capital?"]
-  char --> status["Does the filing status change the answer?"]
-  status --> later["What carryover or amended-return deadline follows?"]
-```
+![Advising](illustrations/part-1-advising.svg)
 
 **11 scored questions, about 13% of the exam**
 
@@ -1100,16 +892,7 @@ This domain is advice, not a second computation of the same credit. The outline 
 
 ### Reporting, character, and planning choices
 
-```mermaid
-flowchart TD
-  sale["A sale"] --> home["Main home: section 121"]
-  sale --> stock["Stock: Schedule D, holding period"]
-  sale --> coll["Collectibles: maximum 28 percent"]
-  sale --> recap["Depreciated property: recapture first"]
-  edu["Education dollars"] --> credit["Credit, if the phaseout allows"]
-  edu --> p529["Section 529: tax-free earnings if qualified"]
-  edu --> both["Do not use both on the same expenses"]
-```
+![Character of a sale](illustrations/part-1-character.svg)
 
 **Reporting obligations.** A person who pays rent, compensation, or other fixed or determinable income in a business may have to file Form 1099-NEC or 1099-MISC. Confirm the 2025 dollar threshold in the General Instructions for Certain Information Returns, because that threshold has changed. Barter exchange income is reportable. Cash received in a trade or business of more than $10,000 is reported on Form 8300. That $10,000 figure is statutory. The taxpayer’s own digital-asset activity still has to be answered on Form 1040. Advice includes telling the client that a Form 1099 does not define taxable income, and that missing a required 1099 is the client’s filing duty, not a reason to omit the income.
 
@@ -1129,16 +912,7 @@ flowchart TD
 
 ### Marriage, divorce, estimates, and claims
 
-```mermaid
-flowchart TD
-  joint["A joint return"] --> both["Joint and several liability"]
-  both --> inn{"Relief from the tax itself?"}
-  inn -->|Yes| f8857["Form 8857, innocent spouse"]
-  inn -->|No| offset{"Refund taken for the other spouse's debt?"}
-  offset -->|Yes| f8379["Form 8379, injured spouse"]
-  pay["Tax will be owed"] --> harbor{"Withholding and estimates meet a safe harbor?"}
-  harbor -->|No| f2210["Form 2210, and increase estimates"]
-```
+![Marriage and estimates](illustrations/part-1-marriage-estimates.svg)
 
 **Status as advice.** Married filing jointly usually produces the lowest tax and is required for several 2025 deductions, including qualified tips, qualified overtime, and the enhanced senior deduction. The cost is joint and several liability: each spouse is liable for the entire tax. Married filing separately can limit that exposure, and it costs the credits and deductions listed in Domain 1. Head of household is often better than single when a qualifying person exists, and it is often better than married filing separately when the considered-unmarried tests are met. In a community-property state, separate returns still report each spouse’s half of community income. Publication 555. A common-law marriage that is valid in the state where it began is a marriage for federal tax purposes even after the couple moves. Publication 501.
 
@@ -1159,11 +933,7 @@ flowchart TD
 
 ### Practice questions
 
-```mermaid
-flowchart TD
-  A["What is the client deciding?"] --> B["Year, status, or claim"]
-  B --> C["Apply the deadline"]
-```
+![Domain 5 practice](illustrations/part-1-domain-5-practice.svg)
 
 **1.** A married couple wants the lowest legal tax on a correct return, and they also want each spouse protected from liability for the other spouse’s unreported income. Which point do you tell them?
 
@@ -1255,16 +1025,7 @@ D. The taxpayer signs only if a refund is claimed.
 
 ## Domain 6 — Specialized Returns for Individuals
 
-```mermaid
-flowchart TD
-  fact["A specialized fact"] --> death{"Someone died, and the estate may owe tax?"}
-  death -->|Yes| f706["Form 706, estate tax"]
-  fact --> gift{"A gift above the annual exclusion, or a future interest?"}
-  gift -->|Yes| f709["Form 709, gift tax"]
-  fact --> forgn{"Foreign accounts or specified foreign assets?"}
-  forgn -->|Accounts| fbar["FinCEN Form 114"]
-  forgn -->|Specified assets| f8938["Form 8938 with the return"]
-```
+![Specialized returns](illustrations/part-1-specialized.svg)
 
 **11 scored questions, about 13% of the exam**
 
@@ -1272,17 +1033,7 @@ This domain is Form 706, Form 709, and the international information returns. Fo
 
 ### Estate tax
 
-```mermaid
-flowchart TD
-  gross["Gross estate"] --> assets["Probate and nonprobate property"]
-  assets --> life{"Incidents of ownership over life insurance?"}
-  life -->|Yes| incl["Include the proceeds"]
-  assets --> joint["Joint property, under the consideration rules"]
-  gross --> ded["Debts, expenses, and the marital and charitable deductions"]
-  ded --> tax["Tax, then the unified credit"]
-  tax --> port{"Elect portability of any unused exclusion?"}
-  port -->|Yes| timely["Timely Form 706, even if no tax is due"]
-```
+![Estate tax](illustrations/part-1-estate-tax.svg)
 
 **What is in the gross estate.** The gross estate includes property the decedent owned, property the decedent gave away and kept a prohibited interest in, and several nonprobate items. For Part 1, know these:
 
@@ -1303,16 +1054,7 @@ Form 1041 is the fiduciary income tax return. It reports the estate’s or trust
 
 ### Gift tax
 
-```mermaid
-flowchart TD
-  transfer["A transfer for less than full consideration"] --> donee{"Present interest?"}
-  donee -->|No| taxable["No annual exclusion, Form 709"]
-  donee -->|Yes| excl["2025 exclusion, $19,000 per donee"]
-  excl --> over{"Value above the exclusion?"}
-  over -->|Yes| f709["Form 709, and unified credit may reduce the tax to zero"]
-  over -->|No| none["No Form 709, unless gift splitting"]
-  direct["Tuition or medical paid directly to the provider"] --> skip["Not a gift, and it does not use the exclusion"]
-```
+![Gift tax](illustrations/part-1-gift-tax.svg)
 
 **Annual exclusion.** For 2025, the first **$19,000** of gifts of a present interest to each donee is excluded. Rev. Proc. 2024-40. A present interest is an unrestricted right to the immediate use, possession, or enjoyment of the property. A gift of a future interest, such as a remainder that the donee cannot enjoy now, does not qualify. A gift to a spouse who is not a U.S. citizen has a separate 2025 exclusion of **$190,000**. Gifts to a U.S.-citizen spouse qualify for the marital deduction.
 
@@ -1330,14 +1072,7 @@ flowchart TD
 
 ### International information reporting
 
-```mermaid
-flowchart TD
-  acct["Foreign financial accounts over $10,000 at any time"] --> fbar["FinCEN 114, not with the 1040"]
-  asset["Specified foreign financial assets over the Form 8938 threshold"] --> f8938["Form 8938, with the return"]
-  both["The same account can be on both forms"] --> file["Filing one does not satisfy the other"]
-  real["Foreign real estate owned directly"] --> neither["Neither form"]
-  stock["Foreign stock not held in an account"] --> only8938["Form 8938 only"]
-```
+![Foreign reporting](illustrations/part-1-foreign-reporting.svg)
 
 The IRS comparison of Form 8938 and FBAR requirements, reviewed September 19, 2026, is the source for this section. Filing one form does not replace the other.
 
@@ -1369,11 +1104,7 @@ These forms are attached to the income tax return or filed as their instructions
 
 ### Practice questions
 
-```mermaid
-flowchart TD
-  A["Estate, gift, or foreign asset?"] --> B["Match the form"]
-  B --> C["Then the due date or threshold"]
-```
+![Domain 6 practice](illustrations/part-1-domain-6-practice.svg)
 
 **1.** A decedent died on March 1, 2025. The gross estate plus adjusted taxable gifts exceeds the 2025 basic exclusion amount. When is Form 706 due if no extension is filed?
 
@@ -1465,21 +1196,7 @@ D. Neither, because the stock is not real estate.
 
 ## One-page quick review
 
-```mermaid
-flowchart LR
-  see["If you see this"] --> think["Think this"]
-  see --> q1["Child under 17"]
-  q1 --> a1["Child tax credit, else other dependents"]
-  see --> q2["Turned 17 this year"]
-  q2 --> a2["Not the child tax credit"]
-  see --> q3["Spouse died this year"]
-  q3 --> a3["Joint return, not qualifying surviving spouse"]
-  see --> q4["Foreign accounts over $10,000"]
-  q4 --> a4["FBAR with FinCEN"]
-  see --> q5["Gift of a future interest"]
-  a5["Form 709, no annual exclusion"]
-  q5 --> a5
-```
+![Part 1 quick review](illustrations/part-1-quick-review.svg)
 
 **If you see this, think this.**
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="377" viewBox="0 0 1000 377" role="img" aria-label="Building the case">
+<title>Building the case</title>
+<rect x="0.0" y="0.0" width="1000.0" height="377.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="387.0" r="120.0" fill="#1B3A4B" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#1B3A4B"/>
+<rect x="0.0" y="0.0" width="14.0" height="377.0" fill="#1B3A4B"/>
+<text x="40.0" y="46.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">BUILDING THE CASE</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Stop if it looks criminal</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#1B3A4B" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#1B3A4B"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P3</text>
+<rect x="40.0" y="128.0" width="920.0" height="60.0" fill="#1B3A4B" rx="18" ry="18"/>
+<text x="500.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">What do you see at the start?</text>
+<path d="M177.0 198.0 L199.0 198.0 L188.0 210.0 Z" fill="#1B3A4B"/>
+<rect x="40.0" y="210.0" width="296.0" height="135.0" fill="#8E332C" rx="18" ry="18"/>
+<text x="188.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Special agent or fraud badges</text>
+<rect x="64.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="188.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Stop. Counsel. Do not</text>
+<text x="188.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">conceal.</text>
+<path d="M489.0 198.0 L511.0 198.0 L500.0 210.0 Z" fill="#1B3A4B"/>
+<rect x="352.0" y="210.0" width="296.0" height="135.0" fill="#7A4E08" rx="18" ry="18"/>
+<text x="500.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">A conflict or a skill gap</text>
+<rect x="376.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="500.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Waive under 10.29, or</text>
+<text x="500.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">decline</text>
+<path d="M801.0 198.0 L823.0 198.0 L812.0 210.0 Z" fill="#1B3A4B"/>
+<rect x="664.0" y="210.0" width="296.0" height="135.0" fill="#0E6B64" rx="18" ry="18"/>
+<text x="812.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Neither one</text>
+<rect x="688.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="812.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Transcripts, then</text>
+<text x="812.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">documents</text>
+</svg>

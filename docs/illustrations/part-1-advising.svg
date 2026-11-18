@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="303" viewBox="0 0 1000 303" role="img" aria-label="Advising">
+<title>Advising</title>
+<rect x="0.0" y="0.0" width="1000.0" height="303.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="313.0" r="120.0" fill="#4E4278" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#4E4278"/>
+<rect x="0.0" y="0.0" width="14.0" height="303.0" fill="#4E4278"/>
+<text x="40.0" y="46.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">DOMAIN 5</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Year, character, status, deadline</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#4E4278" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#4E4278"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<line x1="155.0" y1="168.0" x2="845.0" y2="168.0" stroke="#4E4278" stroke-width="12" stroke-linecap="round" opacity="0.28"/>
+<circle cx="155.0" cy="168.0" r="32.0" fill="#4E4278"/>
+<text x="155.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">1</text>
+<rect x="48.0" y="222.0" width="214.0" height="45.0" fill="#E7E0F7" rx="14" ry="14"/>
+<text x="155.0" y="251.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Which year</text>
+<circle cx="385.0" cy="168.0" r="32.0" fill="#4E4278"/>
+<text x="385.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">2</text>
+<rect x="278.0" y="222.0" width="214.0" height="45.0" fill="#E7E0F7" rx="14" ry="14"/>
+<text x="385.0" y="251.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Ordinary or capital</text>
+<circle cx="615.0" cy="168.0" r="32.0" fill="#4E4278"/>
+<text x="615.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">3</text>
+<rect x="508.0" y="222.0" width="214.0" height="45.0" fill="#E7E0F7" rx="14" ry="14"/>
+<text x="615.0" y="251.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Does status change it</text>
+<circle cx="845.0" cy="168.0" r="32.0" fill="#4E4278"/>
+<text x="845.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">4</text>
+<rect x="738.0" y="222.0" width="214.0" height="45.0" fill="#E7E0F7" rx="14" ry="14"/>
+<text x="845.0" y="251.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">What deadline follows</text>
+</svg>

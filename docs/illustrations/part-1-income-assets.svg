@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="595" viewBox="0 0 1000 595" role="img" aria-label="Income and assets">
+<title>Income and assets</title>
+<rect x="0.0" y="0.0" width="1000.0" height="595.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="605.0" r="120.0" fill="#1D4E89" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#1D4E89"/>
+<rect x="0.0" y="0.0" width="14.0" height="595.0" fill="#1D4E89"/>
+<text x="40.0" y="46.0" fill="#1D4E89" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">DOMAIN 2</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Name it, then place it</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#1D4E89" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#1D4E89"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="452.0" height="176.0" fill="#0E6B64" rx="20" ry="20"/>
+<text x="266.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Wages</text>
+<text x="266.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Pay for services</text>
+<rect x="508.0" y="128.0" width="452.0" height="176.0" fill="#1D4E89" rx="20" ry="20"/>
+<text x="734.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Retirement</text>
+<text x="734.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Distribution rules</text>
+<rect x="40.0" y="320.0" width="452.0" height="176.0" fill="#7A4E08" rx="20" ry="20"/>
+<text x="266.0" y="407.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Sales</text>
+<text x="266.0" y="443.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Basis, then character</text>
+<rect x="508.0" y="320.0" width="452.0" height="176.0" fill="#1E6840" rx="20" ry="20"/>
+<text x="734.0" y="407.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Adjustments</text>
+<text x="734.0" y="443.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">They reduce AGI</text>
+<rect x="40.0" y="512.0" width="920.0" height="51.0" fill="#D9E7F6" rx="16" ry="16"/>
+<text x="500.0" y="544.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">An exclusion is still reported when the form asks.</text>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="446" viewBox="0 0 1000 446" role="img" aria-label="Kiddie tax">
+<title>Kiddie tax</title>
+<rect x="0.0" y="0.0" width="1000.0" height="446.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="456.0" r="120.0" fill="#7A4E08" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#7A4E08"/>
+<rect x="0.0" y="0.0" width="14.0" height="446.0" fill="#7A4E08"/>
+<text x="40.0" y="46.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">KIDDIE TAX</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Whose return reports the income</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#7A4E08" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#7A4E08"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="920.0" height="60.0" fill="#7A4E08" rx="18" ry="18"/>
+<text x="500.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Unearned income of a young child</text>
+<path d="M177.0 198.0 L199.0 198.0 L188.0 210.0 Z" fill="#7A4E08"/>
+<rect x="40.0" y="210.0" width="296.0" height="135.0" fill="#0E6B64" rx="18" ry="18"/>
+<text x="188.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Inside the 8814 band</text>
+<rect x="64.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="188.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Parent may use Form</text>
+<text x="188.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">8814</text>
+<path d="M489.0 198.0 L511.0 198.0 L500.0 210.0 Z" fill="#7A4E08"/>
+<rect x="352.0" y="210.0" width="296.0" height="135.0" fill="#1D4E89" rx="18" ry="18"/>
+<text x="500.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Age test met, outside that band</text>
+<rect x="376.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="500.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Child files Form 8615</text>
+<path d="M801.0 198.0 L823.0 198.0 L812.0 210.0 Z" fill="#7A4E08"/>
+<rect x="664.0" y="210.0" width="296.0" height="135.0" fill="#1B3A4B" rx="18" ry="18"/>
+<text x="812.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Age test is not met</text>
+<rect x="688.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="812.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Child's own rates</text>
+<rect x="40.0" y="361.0" width="920.0" height="51.0" fill="#F8E6C4" rx="16" ry="16"/>
+<text x="500.0" y="393.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Advance premium credit means file Form 8962.</text>
+</svg>

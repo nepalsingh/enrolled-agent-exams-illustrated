@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="456" viewBox="0 0 1000 456" role="img" aria-label="Cost recovery">
+<title>Cost recovery</title>
+<rect x="0.0" y="0.0" width="1000.0" height="456.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="466.0" r="120.0" fill="#7A4E08" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#7A4E08"/>
+<rect x="0.0" y="0.0" width="14.0" height="456.0" fill="#7A4E08"/>
+<text x="40.0" y="46.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">COST RECOVERY</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">179, then bonus, then MACRS</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#7A4E08" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#7A4E08"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P2</text>
+<rect x="40.0" y="128.0" width="448.0" height="296.0" fill="#E4E9EF" rx="20" ry="20"/>
+<rect x="40.0" y="128.0" width="448.0" height="74.0" fill="#1B3A4B" rx="20" ry="20"/>
+<rect x="40.0" y="184.0" width="448.0" height="18.0" fill="#1B3A4B"/>
+<text x="264.0" y="168.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">The order</text>
+<rect x="56.0" y="216.0" width="416.0" height="58.0" fill="#FFFCF8" rx="12" ry="12"/>
+<circle cx="82.0" cy="245.0" r="14.0" fill="#1B3A4B"/>
+<text x="82.0" y="250.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">1</text>
+<text x="108.0" y="251.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">Section 179, within the limits</text>
+<rect x="56.0" y="282.0" width="416.0" height="58.0" fill="#FFFCF8" rx="12" ry="12"/>
+<circle cx="82.0" cy="311.0" r="14.0" fill="#1B3A4B"/>
+<text x="82.0" y="316.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">2</text>
+<text x="108.0" y="317.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">Then bonus depreciation</text>
+<rect x="56.0" y="348.0" width="416.0" height="58.0" fill="#FFFCF8" rx="12" ry="12"/>
+<circle cx="82.0" cy="377.0" r="14.0" fill="#1B3A4B"/>
+<text x="82.0" y="382.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">3</text>
+<text x="108.0" y="383.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">MACRS on what remains</text>
+<rect x="512.0" y="128.0" width="448.0" height="296.0" fill="#F8E6C4" rx="20" ry="20"/>
+<rect x="512.0" y="128.0" width="448.0" height="74.0" fill="#7A4E08" rx="20" ry="20"/>
+<rect x="512.0" y="184.0" width="448.0" height="18.0" fill="#7A4E08"/>
+<text x="736.0" y="168.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">The 2025 bonus rate</text>
+<rect x="528.0" y="216.0" width="416.0" height="58.0" fill="#FFFCF8" rx="12" ry="12"/>
+<circle cx="554.0" cy="245.0" r="14.0" fill="#7A4E08"/>
+<text x="554.0" y="250.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">1</text>
+<text x="580.0" y="251.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">After Jan 19, 2025: 100%</text>
+<rect x="528.0" y="282.0" width="416.0" height="58.0" fill="#FFFCF8" rx="12" ry="12"/>
+<circle cx="554.0" cy="311.0" r="14.0" fill="#7A4E08"/>
+<text x="554.0" y="316.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">2</text>
+<text x="580.0" y="317.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">Before Jan 20, 2025: 40%</text>
+<rect x="528.0" y="348.0" width="416.0" height="58.0" fill="#FFFCF8" rx="12" ry="12"/>
+<circle cx="554.0" cy="377.0" r="14.0" fill="#7A4E08"/>
+<text x="554.0" y="382.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">3</text>
+<text x="580.0" y="383.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">The lower rate can be elected</text>
+</svg>

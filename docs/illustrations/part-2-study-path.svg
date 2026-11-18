@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="303" viewBox="0 0 1000 303" role="img" aria-label="Part 2 study loop">
+<title>Part 2 study loop</title>
+<rect x="0.0" y="0.0" width="1000.0" height="303.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="313.0" r="120.0" fill="#0E6B64" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#0E6B64"/>
+<rect x="0.0" y="0.0" width="14.0" height="303.0" fill="#0E6B64"/>
+<text x="40.0" y="46.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">STUDY LOOP</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Read, drill, then reread</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#0E6B64" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#0E6B64"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P2</text>
+<line x1="155.0" y1="168.0" x2="845.0" y2="168.0" stroke="#0E6B64" stroke-width="12" stroke-linecap="round" opacity="0.28"/>
+<circle cx="155.0" cy="168.0" r="32.0" fill="#0E6B64"/>
+<text x="155.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">1</text>
+<rect x="48.0" y="222.0" width="214.0" height="45.0" fill="#D5F3EE" rx="14" ry="14"/>
+<text x="155.0" y="251.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Read one domain</text>
+<circle cx="385.0" cy="168.0" r="32.0" fill="#0E6B64"/>
+<text x="385.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">2</text>
+<rect x="278.0" y="222.0" width="214.0" height="45.0" fill="#D5F3EE" rx="14" ry="14"/>
+<text x="385.0" y="251.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Note forms and traps</text>
+<circle cx="615.0" cy="168.0" r="32.0" fill="#0E6B64"/>
+<text x="615.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">3</text>
+<rect x="508.0" y="222.0" width="214.0" height="45.0" fill="#D5F3EE" rx="14" ry="14"/>
+<text x="615.0" y="251.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Drill that domain</text>
+<circle cx="845.0" cy="168.0" r="32.0" fill="#0E6B64"/>
+<text x="845.0" y="176.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">4</text>
+<rect x="738.0" y="222.0" width="214.0" height="45.0" fill="#D5F3EE" rx="14" ry="14"/>
+<text x="845.0" y="251.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Reread the misses</text>
+</svg>

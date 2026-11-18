@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="541" viewBox="0 0 1000 541" role="img" aria-label="Dependency">
+<title>Dependency</title>
+<rect x="0.0" y="0.0" width="1000.0" height="541.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="551.0" r="120.0" fill="#4E4278" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#4E4278"/>
+<rect x="0.0" y="0.0" width="14.0" height="541.0" fill="#4E4278"/>
+<text x="40.0" y="46.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">DEPENDENCY</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Child or qualifying relative</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#4E4278" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#4E4278"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="452.0" height="312.0" fill="#D5F3EE" rx="18" ry="18"/>
+<rect x="40.0" y="128.0" width="452.0" height="86.0" fill="#0E6B64" rx="18" ry="18"/>
+<rect x="40.0" y="196.0" width="452.0" height="18.0" fill="#0E6B64"/>
+<text x="266.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Qualifying child</text>
+<rect x="54.0" y="228.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="266.0" y="255.5" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Relationship</text>
+<rect x="54.0" y="278.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="266.0" y="305.5" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Age test</text>
+<rect x="54.0" y="328.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="266.0" y="355.5" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Lived with you</text>
+<rect x="54.0" y="378.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="266.0" y="405.5" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Not self-supporting</text>
+<rect x="508.0" y="128.0" width="452.0" height="312.0" fill="#E7E0F7" rx="18" ry="18"/>
+<rect x="508.0" y="128.0" width="452.0" height="86.0" fill="#4E4278" rx="18" ry="18"/>
+<rect x="508.0" y="196.0" width="452.0" height="18.0" fill="#4E4278"/>
+<text x="734.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Qualifying relative</text>
+<rect x="522.0" y="228.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="734.0" y="255.5" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Not a qualifying child</text>
+<rect x="522.0" y="278.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="734.0" y="305.5" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Income under $5,200</text>
+<rect x="522.0" y="328.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="734.0" y="355.5" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">You gave over half</text>
+<rect x="522.0" y="378.0" width="424.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="734.0" y="405.5" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Related, or all year</text>
+<rect x="40.0" y="456.0" width="920.0" height="51.0" fill="#E7E0F7" rx="16" ry="16"/>
+<text x="500.0" y="488.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Under 17 with a work SSN: child tax credit.</text>
+</svg>

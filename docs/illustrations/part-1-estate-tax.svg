@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img" aria-label="Estate tax">
+<title>Estate tax</title>
+<rect x="0.0" y="0.0" width="1000.0" height="510.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="520.0" r="120.0" fill="#1B3A4B" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#1B3A4B"/>
+<rect x="0.0" y="0.0" width="14.0" height="510.0" fill="#1B3A4B"/>
+<text x="40.0" y="46.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">ESTATE TAX</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Gross estate, then the credit</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#1B3A4B" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#1B3A4B"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="920.0" height="62.0" fill="#1B3A4B" rx="16" ry="16"/>
+<circle cx="78.0" cy="159.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="165.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">1</text>
+<text x="112.0" y="166.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Gross estate: probate and nonprobate</text>
+<rect x="40.0" y="200.0" width="920.0" height="62.0" fill="#1B3A4B" rx="16" ry="16"/>
+<circle cx="78.0" cy="231.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="237.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">2</text>
+<text x="112.0" y="238.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Life insurance, if incidents of ownership</text>
+<rect x="40.0" y="272.0" width="920.0" height="62.0" fill="#1B3A4B" rx="16" ry="16"/>
+<circle cx="78.0" cy="303.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="309.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">3</text>
+<text x="112.0" y="310.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Subtract debts, marital, and charitable</text>
+<rect x="40.0" y="344.0" width="920.0" height="62.0" fill="#1B3A4B" rx="16" ry="16"/>
+<circle cx="78.0" cy="375.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="381.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">4</text>
+<text x="112.0" y="382.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Then the unified credit</text>
+<rect x="40.0" y="416.0" width="920.0" height="62.0" fill="#0E6B64" rx="16" ry="16"/>
+<circle cx="78.0" cy="447.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="453.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">5</text>
+<text x="112.0" y="454.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Portability needs a timely Form 706</text>
+</svg>

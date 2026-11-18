@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="317" viewBox="0 0 1000 317" role="img" aria-label="Domain 5 practice">
+<title>Domain 5 practice</title>
+<rect x="0.0" y="0.0" width="1000.0" height="317.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="327.0" r="120.0" fill="#4E4278" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#4E4278"/>
+<rect x="0.0" y="0.0" width="14.0" height="317.0" fill="#4E4278"/>
+<text x="40.0" y="46.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">DOMAIN 5 DRILL</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Name the decision and the date</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#4E4278" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#4E4278"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<line x1="193.3" y1="174.0" x2="806.7" y2="174.0" stroke="#4E4278" stroke-width="12" stroke-linecap="round" opacity="0.28"/>
+<circle cx="193.3" cy="174.0" r="38.0" fill="#4E4278"/>
+<text x="193.3" y="183.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle">1</text>
+<rect x="48.0" y="234.0" width="290.7" height="47.0" fill="#E7E0F7" rx="14" ry="14"/>
+<text x="193.3" y="265.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">What is being decided</text>
+<circle cx="500.0" cy="174.0" r="38.0" fill="#4E4278"/>
+<text x="500.0" y="183.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle">2</text>
+<rect x="354.7" y="234.0" width="290.7" height="47.0" fill="#E7E0F7" rx="14" ry="14"/>
+<text x="500.0" y="265.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Year, status, or claim</text>
+<circle cx="806.7" cy="174.0" r="38.0" fill="#4E4278"/>
+<text x="806.7" y="183.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle">3</text>
+<rect x="661.3" y="234.0" width="290.7" height="47.0" fill="#E7E0F7" rx="14" ry="14"/>
+<text x="806.7" y="265.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Apply the deadline</text>
+</svg>

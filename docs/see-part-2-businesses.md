@@ -1,16 +1,6 @@
 # SEE Part 2: Businesses
 
-```mermaid
-flowchart LR
-  A["Part 2 Businesses"] --> B["3.5 hours"]
-  B --> C["100 questions"]
-  C --> D["85 scored"]
-  C --> E["15 experimental"]
-  D --> F["Pass: scaled 500"]
-  D --> G["Domain 1: 30"]
-  D --> H["Domain 2: 37"]
-  D --> I["Domain 3: 18"]
-```
+![Part 2 exam map](illustrations/part-2-exam-map.svg)
 
 Study guide for Nepal Singh.
 
@@ -38,15 +28,7 @@ Sample questions in this guide are original. They are not Fast Forward Academy i
 
 ## How to use this guide with Fast Forward Academy
 
-```mermaid
-flowchart TD
-  A["Read one domain here"] --> B["Note forms, basis order, traps"]
-  B --> C["Drill that domain in FFA"]
-  C --> D{"Missed items?"}
-  D -->|Yes| A
-  D -->|No| E["Next domain"]
-  E --> F["One-page review before the exam"]
-```
+![Part 2 study loop](illustrations/part-2-study-path.svg)
 
 Read a domain in this guide first. Then drill that same domain in Fast Forward Academy. This guide is the rule book. FFA is the question bank. Do not treat either one as a substitute for the other.
 
@@ -71,17 +53,7 @@ When a figure in an FFA explanation disagrees with a 2025 IRS instruction cited 
 
 ## Domain 1 — Business Entities and Considerations
 
-```mermaid
-flowchart TD
-  A["Who owns the business?"] --> B["Sole prop or QJV"]
-  A --> C["Partnership"]
-  A --> D["C corporation"]
-  A --> E["S corporation"]
-  B --> F["Schedule C or F"]
-  C --> G["Form 1065 and K-1"]
-  D --> H["Form 1120"]
-  E --> I["Form 1120-S and K-1"]
-```
+![Entity forms](illustrations/part-2-entities.svg)
 
 30 scored questions.
 
@@ -89,18 +61,7 @@ This domain is entity choice, the life of a partnership, the life of a C corpora
 
 ### Entity choice, classification, year, and hobby
 
-```mermaid
-flowchart TD
-  A["Domestic eligible entity"] --> B{"How many owners?"}
-  B -->|One| C["Disregarded"]
-  B -->|Two or more| D["Partnership"]
-  C --> E{"File Form 8832?"}
-  D --> E
-  E -->|Elect corp| F["C corporation"]
-  F --> G{"Form 2553 filed and valid?"}
-  G -->|Yes| H["S corporation"]
-  G -->|No| F
-```
+![Entity choice](illustrations/part-2-entity-choice.svg)
 
 **Sole proprietorship.** One owner, no separate income-tax return. Business income and expenses go on Schedule C (Form 1040), or Schedule F if it is a farm. Net profit is generally subject to self-employment tax on Schedule SE. The owner’s basis in business assets is the owner’s own basis. A sale of the business is a sale of each asset.
 
@@ -152,17 +113,7 @@ A per se corporation (a business incorporated under a state corporation statute)
 
 ### Partnerships
 
-```mermaid
-flowchart TD
-  A["Outside basis at start"] --> B["Add contributions and income"]
-  B --> C["Subtract distributions of money"]
-  C --> D{"Money over basis?"}
-  D -->|Yes| E["Gain; basis is zero"]
-  D -->|No| F["Basis reduced"]
-  E --> G["Nondeductible items"]
-  F --> G
-  G --> H["Losses only up to basis left"]
-```
+![Partnership basis](illustrations/part-2-partnership-basis.svg)
 
 Publication 541 (Rev. December 2025) is the partnership text for this guide. The partner’s basis worksheet is in the Partner’s Instructions for Schedule K-1 (Form 1065). Follow that worksheet’s line order on computational questions.
 
@@ -219,16 +170,7 @@ Inventory is substantially appreciated for the distribution rules when its fair 
 
 ### C corporations
 
-```mermaid
-flowchart TD
-  A["Property to a controlled corp"] --> B{"Stock only, 80 percent control?"}
-  B -->|Yes| C["Section 351: no gain"]
-  B -->|Boot or excess debt| D["Gain recognized"]
-  B -->|Services only| E["Wage or compensation income"]
-  F["Distribution"] --> G["Dividend to the extent of E and P"]
-  G --> H["Then return of capital"]
-  H --> I["Then gain"]
-```
+![C corporation](illustrations/part-2-c-corp.svg)
 
 Publication 542 (Rev. January 2024) is the IRS corporation text used here. The exam’s law date is December 31, 2025. Where Publication 542 states a rate or a threshold, this guide quotes it and you should confirm the same sentence still appears in the 2025 Instructions for Form 1120.
 
@@ -281,17 +223,7 @@ Constructive dividends include personal expenses paid by the corporation, excess
 
 ### S corporations
 
-```mermaid
-flowchart TD
-  A["Domestic corp, eligible owners, one class"] --> B["Form 2553 on time"]
-  B --> C["Increase stock basis for income"]
-  C --> D["Distributions reduce stock basis"]
-  D --> E{"Distribution over stock basis?"}
-  E -->|Yes| F["Capital gain"]
-  E -->|No| G["Nondeductible items"]
-  G --> H["Losses against stock basis"]
-  H --> I["Then against loan basis"]
-```
+![S corporation basis](illustrations/part-2-s-corp.svg)
 
 **Eligibility (section 1361).** Domestic corporation. No more than 100 shareholders. A family election can treat members of a family as one shareholder. Eligible shareholders are individuals who are U.S. citizens or residents, estates, and certain trusts (including qualifying subchapter S trusts and electing small business trusts). Partnerships, corporations, and nonresident aliens are not eligible shareholders. One class of stock: identical rights to distribution and liquidation proceeds. Differences in voting rights are allowed. Ineligible corporations include certain financial institutions, insurance companies, and domestic international sales corporations. Confirm the current ineligible list in the 2025 Instructions for Form 2553.
 
@@ -348,12 +280,7 @@ AAA is increased by income other than tax-exempt income and is decreased by loss
 
 ### Domain 1 sample questions
 
-```mermaid
-flowchart TD
-  A["Read the entity"] --> B{"Partnership, C, or S?"}
-  B --> C["Apply that basis order"]
-  C --> D["Then character of the income"]
-```
+![Domain 1 practice](illustrations/part-2-domain-1-practice.svg)
 
 **1.** A domestic LLC has two members. It has never filed Form 8832 or Form 2553. For federal income tax it is classified as:
 
@@ -477,16 +404,7 @@ D. January 31, 2026 for Form 1065 and February 2, 2026 for Form 1120
 
 ## Domain 2 — Business Tax Preparation
 
-```mermaid
-flowchart TD
-  A["Gross receipts"] --> B["Minus COGS"]
-  B --> C["Minus deductions"]
-  C --> D["Basis limit"]
-  D --> E["At-risk limit"]
-  E --> F["Passive limit"]
-  F --> G["Excess business loss"]
-  G --> H["QBI on the owner return"]
-```
+![Business tax preparation](illustrations/part-2-tax-prep.svg)
 
 37 scored questions.
 
@@ -494,18 +412,7 @@ This is the largest domain. It covers income, cost of goods sold, loss limits, d
 
 ### Income, inventory, debt cancellation, and loss limits
 
-```mermaid
-flowchart TD
-  A["Is it a business loss?"] --> B{"Basis left?"}
-  B -->|No| C["Suspend the loss"]
-  B -->|Yes| D{"At risk?"}
-  D -->|No| C
-  D -->|Yes| E{"Passive activity?"}
-  E -->|Yes| F["Form 8582"]
-  E -->|No| G{"Excess business loss?"}
-  G -->|Yes| H["Form 461"]
-  G -->|No| I["Deduct"]
-```
+![Loss limits](illustrations/part-2-loss-limits.svg)
 
 **Gross receipts.** All income from the business: sales, services, barter at fair market value, rents, and other income such as scrap sales and certain fuel tax credits that the form instructions tell you to include. Constructive receipt applies to cash-method taxpayers. A cash-method taxpayer includes income when it is received or made available.
 
@@ -533,18 +440,7 @@ The special $25,000 rental allowance is Domain 3. The ordering rule lives here: 
 
 ### Expenses, cost recovery, employment tax, and credits
 
-```mermaid
-flowchart TD
-  A["Cost of business asset"] --> B{"Elect section 179?"}
-  B -->|Yes| C["179 up to the 2025 limits"]
-  B -->|No| D["Remaining basis"]
-  C --> D
-  D --> E{"Qualified for bonus?"}
-  E -->|Acquired after Jan 19, 2025| F["100 percent unless elected otherwise"]
-  E -->|Acquired before Jan 20, 2025| G["40 percent phase-down"]
-  F --> H["MACRS on what remains"]
-  G --> H
-```
+![Cost recovery](illustrations/part-2-cost-recovery.svg)
 
 **Compensation.** Wages, bonuses, and commissions are deductible when they are ordinary and necessary and the amount is reasonable. The employer deducts the full wage, including amounts withheld for income tax and the employee’s share of social security and Medicare. The employer also deducts the employer’s own share of social security and Medicare. Fringe benefits are deductible by the employer to the extent they are ordinary and necessary; some are excluded from the employee’s income (see Publication 15-B) and some are wages. A statutory employee’s wage is reported on Form W-2 with the statutory-employee box checked, is subject to social security and Medicare, is not subject to income-tax withholding, and the worker may have business expenses on Schedule C. Confirm the four statutory-employee categories in Publication 15-A.
 
@@ -629,17 +525,7 @@ Self-employment tax is the self-employed person’s counterpart: both the employ
 
 ### Assets and dispositions
 
-```mermaid
-flowchart TD
-  A["Sale of business property"] --> B{"Depreciation taken?"}
-  B -->|Personal property| C["Section 1245 ordinary up to depreciation"]
-  B -->|Real property, straight line| D["Unrecaptured 1250 at the capital rate"]
-  C --> E["Rest of gain is section 1231"]
-  D --> E
-  E --> F{"Net 1231 gain and prior 1231 losses?"}
-  F -->|Lookback applies| G["Ordinary to the extent of lookback"]
-  F -->|No lookback| H["Long-term capital"]
-```
+![Business property sale](illustrations/part-2-dispositions.svg)
 
 **Basis.** Cost includes cash, debt incurred to buy the asset, sales tax, and setup costs that are capitalized. Gifted property generally takes the donor’s basis for gain; for loss, basis is the lesser of the donor’s basis or fair market value at the gift. Inherited property is generally fair market value at the date of death (or the alternate valuation date if the estate uses it). Property converted from personal use to business use takes, for depreciation and for loss, the lesser of adjusted basis or fair market value on the conversion date. Gain basis remains adjusted basis. Publication 551 is the basis publication.
 
@@ -666,14 +552,7 @@ Section 1239: gain on a sale of depreciable property between related persons (mo
 
 ### Books, methods, and advice to the owner
 
-```mermaid
-flowchart TD
-  A["Book income"] --> B["Add income taxed but not on the books"]
-  B --> C["Add expenses on the books that tax denies"]
-  C --> D["Subtract income on the books that tax excludes"]
-  D --> E["Subtract tax deductions the books omit"]
-  E --> F["Taxable income on Schedule M-1"]
-```
+![Book to tax](illustrations/part-2-book-to-tax.svg)
 
 **Records and codes.** Choose the form that matches the entity (Domain 1). Use the principal business activity code the form instructions publish. Compare this year’s gross margin, officer pay, and ending inventory with last year. A ratio that moved without a business reason is an error or a classification change.
 
@@ -710,12 +589,7 @@ flowchart TD
 
 ### Domain 2 sample questions
 
-```mermaid
-flowchart TD
-  A["Identify the tax year"] --> B{"Is the number a 2025 limit?"}
-  B -->|Yes| C["Use the 2025 IRS figure"]
-  B -->|No| D["Apply the rule, not a memorized rate"]
-```
+![Domain 2 practice](illustrations/part-2-domain-2-practice.svg)
 
 **1.** For a tax year beginning in 2025, the maximum section 179 expense deduction, before the investment limitation and the taxable-income limitation, is:
 
@@ -839,14 +713,7 @@ D. 14 cents per mile, and a Medicare wage base of $176,100
 
 ## Domain 3 — Specialized Returns and Taxpayers
 
-```mermaid
-flowchart TD
-  A["Specialized return"] --> B["Trust or estate: Form 1041"]
-  A --> C["Exempt org: Form 990 series"]
-  A --> D["Retirement plan: Pub 560"]
-  A --> E["Farm: Schedule F or Form 4835"]
-  A --> F["Rental: Schedule E"]
-```
+![Specialized regimes](illustrations/part-2-specialized.svg)
 
 18 scored questions.
 
@@ -854,16 +721,7 @@ Eighteen questions cover five systems. Learn who files which form, the one limit
 
 ### Trusts and estates
 
-```mermaid
-flowchart TD
-  A["Fiduciary return"] --> B{"Grantor owns it?"}
-  B -->|Yes| C["Tax the grantor"]
-  B -->|No| D{"Must distribute all income, no charity, no corpus?"}
-  D -->|Yes| E["Simple trust"]
-  D -->|No| F["Complex trust or estate"]
-  E --> G["Deduction limited to DNI"]
-  F --> G
-```
+![Trusts and estates](illustrations/part-2-trusts.svg)
 
 **Types.** The 2025 Instructions for Form 1041:
 
@@ -902,17 +760,7 @@ An estate files Form 1041 if it has gross income of $600 or more, if it has a no
 
 ### Exempt organizations
 
-```mermaid
-flowchart TD
-  A["Organized and operated for an exempt purpose"] --> B{"501c3?"}
-  B -->|Yes| C["Form 1023 or 1023-EZ"]
-  B -->|Other 501c| D["Form 1024 or 1024-A"]
-  C --> E["Annual Form 990 series"]
-  D --> E
-  E --> F{"Unrelated business?"}
-  F -->|Yes| G["Form 990-T"]
-  F -->|No| H["Exempt receipts stay out of UBTI"]
-```
+![Exempt organizations](illustrations/part-2-exempt-orgs.svg)
 
 **Qualification.** Section 501(c) lists exempt categories. Section 501(c)(3) is charitable, religious, educational, scientific, and literary organizations, and a few others in that subsection. A 501(c)(3) organization must be organized and operated exclusively for those purposes. Net earnings may not inure to a private shareholder or individual. It may not intervene in a political campaign. Lobbying cannot be a substantial part of its activities unless a permitted election under section 501(h) applies. Other subsections cover social welfare (501(c)(4)), labor and agricultural groups (501(c)(5)), business leagues (501(c)(6)), social clubs (501(c)(7)), and the rest of the list. Read the subsection the question names.
 
@@ -932,16 +780,7 @@ flowchart TD
 
 ### Retirement plans
 
-```mermaid
-flowchart TD
-  A["Plan for the business"] --> B{"Need flexible employer-only contributions?"}
-  B -->|Yes| C["SEP: due date including extensions"]
-  B -->|No| D{"100-employee style plan with deferrals?"}
-  D -->|Yes| E["SIMPLE: set up by October 1"]
-  D -->|No| F{"Promised benefit or account balance?"}
-  F -->|Account| G["Defined contribution"]
-  F -->|Benefit| H["Defined benefit"]
-```
+![Retirement plans](illustrations/part-2-retirement-plans.svg)
 
 Publication 560 (2025) is the source for the dollar limits below. They are limits for **2025**. The 2026 amounts in the same publication are not the amounts for this exam.
 
@@ -967,14 +806,7 @@ Publication 560 (2025) is the source for the dollar limits below. They are limit
 
 ### Farmers
 
-```mermaid
-flowchart TD
-  A["Farm income"] --> B{"Operator or landlord?"}
-  B -->|Material participation| C["Schedule F and Schedule SE"]
-  B -->|Crop share, no material participation| D["Form 4835"]
-  B -->|Cash rent, no services| E["Schedule E"]
-  C --> F["Income averaging on Schedule J is elective"]
-```
+![Farmers](illustrations/part-2-farmers.svg)
 
 **Farm income, Publication 225 and the 2025 Instructions for Schedule F.** Report sales of livestock, produce, grains, and other products raised or bought for resale on Schedule F. Also include cooperative distributions (patronage dividends on Form 1099-PATR; a stated nontaxable portion is a return of capital), agricultural program payments, commodity credit loans if the farmer elects to treat them as income, crop insurance proceeds, and custom-hire income.
 
@@ -998,17 +830,7 @@ Crop insurance and certain disaster payments may be elected into the following y
 
 ### Rental property
 
-```mermaid
-flowchart TD
-  A["Rental activity"] --> B{"Real estate professional and material participation?"}
-  B -->|Yes| C["Nonpassive"]
-  B -->|No| D{"Active participation and MAGI phaseout?"}
-  D -->|Allowance remains| E["Up to the 25000 allowance"]
-  D -->|No allowance| F["Passive loss on Form 8582"]
-  A --> G{"Personal use over 14 days or 10 percent?"}
-  G -->|Yes| H["Residence limits"]
-  G -->|Rented under 15 days| I["Exclude rental income"]
-```
+![Rental property](illustrations/part-2-rentals.svg)
 
 **Income.** Schedule E for a rental that is not a farm and not a business in which the taxpayer provides substantial services. A refundable security deposit is not income when received. It is income when the landlord applies it to unpaid rent or keeps it as damages. Advance rent is income when received by a cash-method landlord, even if it covers a later year. Amounts a tenant pays to cancel a lease are rent. Expenses the tenant pays and that are the landlord’s obligation are rental income, and they may also be deductible expenses.
 
@@ -1041,11 +863,7 @@ Publication 925’s 2025 illustration: MAGI of $120,000 and a $31,000 loss produ
 
 ### Domain 3 sample questions
 
-```mermaid
-flowchart TD
-  A["Which regime?"] --> B["Form and the one limit"]
-  B --> C["2025 dollar figure only if the pub states it"]
-```
+![Domain 3 practice](illustrations/part-2-domain-3-practice.svg)
 
 **1.** A trust instrument requires the trustee to distribute all fiduciary accounting income currently. In 2025 the trustee distributes that income and also distributes principal to a beneficiary. The trust makes no charitable payments. For 2025 the trust is:
 
@@ -1169,17 +987,7 @@ D. Met, because active participation is enough
 
 ## One-page quick review
 
-```mermaid
-flowchart TD
-  A["See a distribution"] --> B{"Which entity?"}
-  B -->|Partnership| C["Money over outside basis is gain"]
-  B -->|C corp| D["Dividend to the extent of E and P"]
-  B -->|S corp| E["Stock basis only, then gain"]
-  F["See a loss"] --> G["Basis, at-risk, passive, then Form 461"]
-  H["See 2025 equipment"] --> I{"Acquired after Jan 19?"}
-  I -->|Yes| J["100 percent bonus"]
-  I -->|No| K["40 percent bonus"]
-```
+![Part 2 quick review](illustrations/part-2-quick-review.svg)
 
 **Forms.**
 

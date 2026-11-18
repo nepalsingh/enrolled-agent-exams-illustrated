@@ -1,17 +1,6 @@
 # SEE Part 3: Representation, Practices, and Procedures
 
-```mermaid
-flowchart LR
-  A["Part 3 Representation"] --> B["3.5 hours"]
-  B --> C["100 questions"]
-  C --> D["85 scored"]
-  C --> E["15 experimental"]
-  D --> F["Pass: scaled 500"]
-  D --> G["Domain 1: 26"]
-  D --> H["Domain 2: 25"]
-  D --> I["Domain 3: 20"]
-  D --> J["Domain 4: 14"]
-```
+![Part 3 exam map](illustrations/part-3-exam-map.svg)
 
 Study guide for Nepal Singh.
 
@@ -23,13 +12,7 @@ A percent or dollar amount written into the statute is marked **statutory**. A f
 
 ## Exam facts for this window
 
-```mermaid
-flowchart LR
-  A["100 questions"] --> B["85 scored"]
-  A --> C["15 experimental"]
-  B --> D["Scale 200 to 800"]
-  D --> E["Pass at 500"]
-```
+![Exam facts](illustrations/part-3-exam-facts.svg)
 
 | Item | What the bulletin states |
 | --- | --- |
@@ -58,13 +41,7 @@ Fast Forward Academy’s public chart titles domain 2 “Representations before 
 
 ## How to use this with Fast Forward Academy
 
-```mermaid
-flowchart TD
-  A["Read one domain here"] --> B["Drill that domain in FFA"]
-  B --> C["Missed item"]
-  C --> D["Reread the rule and the cite"]
-  D --> B
-```
+![Part 3 study loop](illustrations/part-3-study-path.svg)
 
 Read one domain in this guide, including the diagram under each heading. Then drill that same domain in Fast Forward Academy. The public FFA domain list lines up with the four rows in the table above.
 
@@ -74,31 +51,13 @@ Primary sources for the rules below are Circular 230 (31 CFR Part 10), issued un
 
 # 1. Practices and procedures
 
-```mermaid
-flowchart TD
-  A["Practices and procedures"] --> B["Who may practice"]
-  A --> C["Duties and conflicts"]
-  A --> D["Advice and returns"]
-  A --> E["PTIN, CE, supervision"]
-  A --> F["Sanctions and penalties"]
-```
+![Practices and procedures](illustrations/part-3-practices.svg)
 
 This is the largest domain: 26 of the 85 scored questions. It tests Circular 230 duties, who may practice and how far, PTIN and enrollment, OPR sanctions, and the preparer and accuracy penalties the outline names.
 
 ## Who may practice
 
-```mermaid
-flowchart TD
-  A["Person and the IRS"] --> B{"What credential"}
-  B --> C["Attorney, CPA, or EA"]
-  B --> D["AFSP record of completion"]
-  B --> E["No credential"]
-  C --> F["Generally unlimited"]
-  D --> G["Exam only, returns they signed"]
-  E --> H{"Eligible without enrollment"}
-  H --> I["Self, family, employer, fiduciary"]
-  H --> J["No representation"]
-```
+![Who may practice](illustrations/part-3-who-may-practice.svg)
 
 **What is tested.** What “practice before the IRS” means, who may do it, and where each category stops.
 
@@ -122,16 +81,7 @@ Who may practice, Circular 230 §10.3 and §10.7:
 
 ## Duties, conflicts, and confidentiality
 
-```mermaid
-flowchart TD
-  A["Conflict appears"] --> B{"All three true"}
-  B -->|"Yes"| C["May represent"]
-  B -->|"No"| D["Do not represent"]
-  C --> E["Competent and diligent"]
-  C --> F["Allowed by law"]
-  C --> G["Written waiver in 30 days"]
-  G --> H["Keep waiver 36 months"]
-```
+![Conflicts](illustrations/part-3-conflicts.svg)
 
 **What is tested.** The mandatory duties in Circular 230 Subpart B: furnish information, advise the client of an error, be diligent, move the case, refuse help from a disbarred person, handle former-employee conflicts, return records, and clear conflicts. Confidentiality shows up here and again under IRC 7216 and 6713 in Domain 2.
 
@@ -161,18 +111,7 @@ flowchart TD
 
 ## Fees, solicitation, and refund checks
 
-```mermaid
-flowchart TD
-  A["Proposed fee"] --> B{"Contingent"}
-  B -->|"Original return"| C["10.27 does not permit it"]
-  B -->|"Exam of that return"| D["10.27 permits it"]
-  B -->|"Interest or penalty claim only"| D
-  B -->|"Case in court under the Code"| D
-  A --> E{"Unconscionable"}
-  E -->|"Yes"| F["Not permitted"]
-  A --> G["Client refund check"]
-  G --> H["Do not endorse or negotiate"]
-```
+![Fees](illustrations/part-3-fees.svg)
 
 **Rules.**
 
@@ -191,15 +130,7 @@ flowchart TD
 
 ## Return positions, written advice, and competence
 
-```mermaid
-flowchart TD
-  A["Position on the return"] --> B{"How strong is it"}
-  B --> C["Undisclosed: substantial authority"]
-  B --> D["Disclosed: reasonable basis"]
-  B --> E["Tax shelter: more likely than not"]
-  A --> F["Written advice under 10.37"]
-  F --> G["Ignore the audit lottery"]
-```
+![Return positions](illustrations/part-3-positions.svg)
 
 **The outline still says “covered opinions.”** Treasury removed the old covered-opinion rules in 2014. Section 10.35 is now **competence**. Written advice is **§10.37**. Do not study a repealed checklist. If a question uses the old phrase, answer with §§10.34, 10.35, and 10.37.
 
@@ -232,15 +163,7 @@ You may generally rely in good faith on information the client furnishes, withou
 
 ## PTIN, enrollment, and supervision
 
-```mermaid
-flowchart TD
-  A["Active enrolled agent"] --> B["Valid PTIN every year"]
-  A --> C["16 hours each enrollment year"]
-  C --> D["Including 2 hours of ethics"]
-  A --> E["72 hours each 3-year cycle"]
-  E --> F["Including 6 hours of ethics"]
-  A --> G["Renew November 1 to January 31"]
-```
+![PTIN and enrollment](illustrations/part-3-ptin.svg)
 
 **PTIN.** Under IRC 6109(a)(4) and Treas. Reg. 1.6109-2, anyone who for compensation prepares, or assists in preparing, all or substantially all of a federal tax return or claim for refund must have a preparer tax identification number. Renew it by **December 31** for the following year (the bulletin states this renewal date). The paper application is Form W-12. A PTIN is not a CAF number and not an EFIN. Willfully preparing returns without a valid PTIN is disreputable conduct under §10.51. Failing to put the required identifying number on a return is the IRC 6695(c) penalty.
 
@@ -263,14 +186,7 @@ flowchart TD
 
 ## Sanctions and disreputable conduct
 
-```mermaid
-flowchart TD
-  A["Conduct subject to sanction"] --> B["Censure"]
-  A --> C["Suspension"]
-  A --> D["Disbarment"]
-  A --> E["Monetary penalty"]
-  E --> F["Cap is gross income from the conduct"]
-```
+![Sanctions](illustrations/part-3-sanctions.svg)
 
 **§10.50.** After notice and an opportunity for a proceeding, the Secretary may censure, suspend, or disbar a practitioner who is incompetent or disreputable (§10.51), who violates a Circular 230 regulation under the standards in §10.52, or who with intent to defraud willfully and knowingly misleads or threatens a client or prospective client. Censure is a public reprimand.
 
@@ -286,16 +202,7 @@ A monetary penalty may be imposed on the practitioner, and on the employer, firm
 
 ## Penalties the outline tests
 
-```mermaid
-flowchart TD
-  A["Understatement"] --> B{"Whose penalty"}
-  B --> C["Taxpayer: 6662"]
-  B --> D["Preparer: 6694"]
-  C --> E["20 percent"]
-  C --> F["40 percent if gross valuation"]
-  D --> G["Greater of 1000 dollars or 50 percent"]
-  D --> H["Willful: greater of 5000 dollars or 75 percent"]
-```
+![Penalties](illustrations/part-3-penalties.svg)
 
 **Accuracy-related penalty, IRC 6662.** Statutory rate: **20 percent** of the portion of the underpayment. The section does not apply to any portion on which the civil fraud penalty of section 6663 is imposed.
 
@@ -412,27 +319,13 @@ Reasonable cause and no willful neglect is a defense to the 6695(a) through (e) 
 
 # 2. Representation before the IRS
 
-```mermaid
-flowchart TD
-  A["Representation"] --> B["Authority to act"]
-  A --> C["Build the case"]
-  A --> D["Ability to pay"]
-  A --> E["Proof and deadlines"]
-```
+![Representation](illustrations/part-3-representation.svg)
 
 This domain is 25 of the 85 scored questions. It tests whether you have authority to act, how you build a file, how you read the taxpayer’s finances, and which source and which clock actually control.
 
 ## Power of attorney, Form 8821, and the CAF
 
-```mermaid
-flowchart TD
-  A["The IRS will not talk"] --> B{"What is needed"}
-  B -->|"Speak for the taxpayer"| C["Form 2848"]
-  B -->|"Receive information only"| D["Form 8821"]
-  B -->|"Discuss processing of one return"| E["Checkbox designee"]
-  C --> F["CAF number is an index"]
-  F --> G["The form is the authority"]
-```
+![Power of attorney](illustrations/part-3-poa.svg)
 
 **What is tested.** Why a power of attorney exists, what Form 2848 grants, what it does not grant, how it differs from Form 8821, how a representative is changed or withdrawn, what a CAF number is, and the conference rules the outline still calls Publication 216.
 
@@ -464,15 +357,7 @@ flowchart TD
 
 ## Building the case
 
-```mermaid
-flowchart TD
-  A["New representation"] --> B{"Criminal badges or a special agent"}
-  B -->|"Yes"| C["Stop and reassess"]
-  C --> D["Competence, counsel, no concealment"]
-  B -->|"No"| E{"Conflict or a skill you lack"}
-  E -->|"Yes"| F["Waive under 10.29 or decline"]
-  E -->|"No"| G["Transcripts, then documents"]
-```
+![Building the case](illustrations/part-3-building-case.svg)
 
 **What is tested.** Preliminary work before you argue the merits: identify the issue, notice criminal exposure, decide whether you are competent and free of a conflict, and get the IRS transcripts.
 
@@ -487,14 +372,7 @@ flowchart TD
 
 ## The taxpayer’s financial picture
 
-```mermaid
-flowchart TD
-  A["Balance due"] --> B{"Can the taxpayer pay"}
-  B -->|"Yes, now"| C["Full payment"]
-  B -->|"Yes, over time"| D["Installment agreement"]
-  B -->|"Equity and income below the debt"| E["Offer in compromise"]
-  B -->|"Paying basic living costs is the hardship"| F["Currently not collectible"]
-```
+![Ability to pay](illustrations/part-3-ability-to-pay.svg)
 
 **What is tested.** At this stage you are deciding which collection path fits. Domain 3 is where the forms, the levy bans, and the appeal rights live. Here you learn to read ability to pay.
 
@@ -510,14 +388,7 @@ flowchart TD
 
 ## Proof, authority, and timing
 
-```mermaid
-flowchart TD
-  A["Which clock"] --> B["Assess: 3 years"]
-  A --> C["Big omission: 6 years"]
-  A --> D["Fraud or no return: no limit"]
-  A --> E["Refund: 3 years from filing or 2 from payment"]
-  A --> F["Collect: 10 years from assessment"]
-```
+![Statutes of limitation](illustrations/part-3-statutes.svg)
 
 **Legal authority, in the order you should trust it.**
 
@@ -630,29 +501,13 @@ flowchart TD
 
 # 3. Specific areas of representation
 
-```mermaid
-flowchart TD
-  A["IRS action"] --> B["Collection"]
-  A --> C["Audit"]
-  A --> D["Appeals"]
-  A --> E["Penalty relief"]
-```
+![Areas of representation](illustrations/part-3-areas.svg)
 
 This domain is 20 of the 85 scored questions. It is the procedure domain: which notice starts which clock, which form requests which hearing, and which remedy actually changes the balance.
 
 ## Collection: lien, levy, and currently not collectible
 
-```mermaid
-flowchart TD
-  A["Assessment plus demand plus nonpayment"] --> B["Statutory lien"]
-  B --> C["NFTL filed"]
-  C --> D["CDP on Form 12153"]
-  A --> E["Notice of intent to levy"]
-  E --> D
-  D --> F{"Request on time"}
-  F -->|"Yes"| G["CDP, then Tax Court"]
-  F -->|"No"| H["Equivalent hearing"]
-```
+![Lien and levy](illustrations/part-3-lien-levy.svg)
 
 **The lien.** Under IRC 6321, a lien arises when the tax is assessed, demand is made, and the taxpayer neglects or refuses to pay. IRC 6322 dates the lien from the assessment. The lien exists before anyone files a public notice. A **Notice of Federal Tax Lien** is the public filing. Under IRC 6323, the lien is not valid against a purchaser, a holder of a security interest, a mechanic’s lienor, or a judgment lien creditor until the notice is filed in the right office. The IRS must send the taxpayer written notice of that filing not more than **5 business days** after the filing (IRC 6320).
 
@@ -675,15 +530,7 @@ For calendar year 2025, Rev. Proc. 2024-40 sets two small superpriority amounts 
 
 ## Time to pay, installment agreements, and offers
 
-```mermaid
-flowchart TD
-  A["Cannot pay in full today"] --> B{"Is the debt correct"}
-  B -->|"No"| C["Doubt as to liability"]
-  B -->|"Yes"| D{"Collection potential below the debt"}
-  D -->|"Yes"| E["Doubt as to collectibility"]
-  D -->|"Can full pay, but only with serious hardship"| F["Effective tax administration"]
-  D -->|"Can pay over time"| G["Installment agreement"]
-```
+![Offers and installments](illustrations/part-3-offers.svg)
 
 **Extension of time to pay, Form 1127.** This is undue hardship under IRC 6161. It is not an extension of time to file. For the tax shown on the return, the extension is for a period not exceeding **6 months**. For a deficiency, the period is not to exceed **18 months**, and the IRS may grant up to **12 additional months** in an exceptional case. Security can be required under the bond rules. A Form 4868 extends the time to file. It does not, by itself, extend the time to pay.
 
@@ -707,14 +554,7 @@ The IRS will not consider an offer from a taxpayer in an open bankruptcy, or fro
 
 ## Hearings and collection appeals
 
-```mermaid
-flowchart TD
-  A["Collection action"] --> B{"CDP notice in hand"}
-  B -->|"Timely request"| C["Form 12153"]
-  C --> D["Tax Court review"]
-  B -->|"Too late, or no CDP notice"| E["CAP on Form 9423"]
-  E --> F["No Tax Court review of CAP"]
-```
+![CDP and CAP](illustrations/part-3-hearings.svg)
 
 **Collection due process.** Use Form 12153.
 
@@ -728,14 +568,7 @@ flowchart TD
 
 ## Innocent spouse, trust fund, decedent, and passport
 
-```mermaid
-flowchart TD
-  A["Special case"] --> B["Innocent spouse: Form 8857"]
-  A --> C["Injured spouse: Form 8379"]
-  A --> D["Trust fund: section 6672"]
-  A --> E["Decedent: Form 56"]
-  A --> F["Passport: section 7345"]
-```
+![Special cases](illustrations/part-3-special-cases.svg)
 
 **Innocent spouse, IRC 6015 and Form 8857.** Three paths:
 
@@ -757,16 +590,7 @@ Both spouses can appeal the preliminary determination. The IRS innocent-spouse a
 
 ## Audits and the notice path
 
-```mermaid
-flowchart TD
-  A["Exam result"] --> B["30-day letter and RAR"]
-  B --> C{"Agree"}
-  C -->|"Yes"| D["Form 870"]
-  C -->|"No"| E["Protest to Appeals"]
-  E --> F{"Settled"}
-  F -->|"No"| G["90-day letter"]
-  G --> H["Tax Court in 90 or 150 days"]
-```
+![Audit path](illustrations/part-3-audits.svg)
 
 **IRS authority.** IRC 7602 authorizes examination of books, testimony, and summonses. IRC 7605(a) lets the IRS set the time and place, which must be reasonable under the circumstances. IRC 7605(b) limits the IRS to one inspection of the taxpayer’s books for a year unless the taxpayer requests another or the IRS gives written notice that an additional inspection is necessary. IRC 7521 gives the taxpayer the right to be represented and, with advance notice, to record an in-person interview.
 
@@ -786,15 +610,7 @@ flowchart TD
 
 ## Appeals
 
-```mermaid
-flowchart TD
-  A["Appeals conference"] --> B["Hazards of litigation"]
-  B --> C["Settle"]
-  B --> D["No agreement"]
-  D --> E["90-day letter"]
-  E --> F["Tax Court, prepayment"]
-  E --> G["Pay, claim, then refund suit"]
-```
+![Appeals](illustrations/part-3-appeals.svg)
 
 **Right to appeal.** A taxpayer who receives a 30-day letter may request Appeals. An enrolled agent may appear at the conference under a Form 2848 that covers the tax and the periods.
 
@@ -809,16 +625,7 @@ flowchart TD
 
 ## Penalty and interest abatement
 
-```mermaid
-flowchart TD
-  A["Penalty charged"] --> B{"Failure to file, pay, or deposit"}
-  B -->|"Clean recent history"| C["First time abate, administrative"]
-  B -->|"Reasonable cause"| D["Statutory relief"]
-  A --> E["Interest"]
-  E --> F{"IRS ministerial or managerial delay"}
-  F -->|"Yes, and the taxpayer did not cause it"| G["Possible abatement under 6404 e"]
-  F -->|"Ordinary underpayment interest"| H["Interest remains"]
-```
+![Penalty abatement](illustrations/part-3-abatement.svg)
 
 **Penalties that can be removed.** Failure to file, failure to pay, and failure to deposit have a reasonable-cause exception in section 6651 and section 6656: the taxpayer exercised ordinary business care and prudence and was nevertheless unable to file or to pay. Facts that can meet that test include serious illness, a casualty that destroyed records, and the inability to get records despite timely efforts. A mistake that ordinary care would have caught does not.
 
@@ -906,24 +713,13 @@ flowchart TD
 
 # 4. Filing process
 
-```mermaid
-flowchart TD
-  A["Filing process"] --> B["Accurate return"]
-  A --> C["Records and security"]
-  A --> D["E-file duties"]
-```
+![Filing process](illustrations/part-3-filing.svg)
 
 This domain is 14 of the 85 scored questions. It tests whether the return that leaves your office is accurate, retained, protected, and filed the way the e-file rules require.
 
 ## Accuracy, records, and safeguarding data
 
-```mermaid
-flowchart TD
-  A["Before you sign"] --> B["Review the software output"]
-  B --> C["Fix duplicates and imports"]
-  A --> D["Keep the required copies"]
-  A --> E["Protect paper and electronic files"]
-```
+![Records and data](illustrations/part-3-records.svg)
 
 **Reliance on software.** Software does not replace §10.22 diligence or §10.34. Review the results. A duplicate wage import, a doubled estimated-tax payment, or a credit the interview did not support is your responsibility if you sign the return. Reasonable care in choosing and supervising a person who inputs the return is the reliance rule in §10.22. Blind transmission is not that rule.
 
@@ -940,15 +736,7 @@ flowchart TD
 
 ## E-file mandate, EFIN, and the ERO
 
-```mermaid
-flowchart TD
-  A["Paid preparer"] --> B{"11 or more covered returns"}
-  B -->|"No"| C["Paper is allowed"]
-  B -->|"Yes"| D{"An exception applies"}
-  D -->|"No"| E["E-file the return"]
-  D -->|"Yes"| F["Paper, with Form 8948 when required"]
-  E --> G["Form 8879 stays with the ERO"]
-```
+![E-file mandate](illustrations/part-3-efile.svg)
 
 **Becoming a provider.** An Electronic Filing Identification Number is obtained by applying through IRS e-Services. The application includes a suitability check. The EFIN identifies the firm as an authorized e-file provider. It is not a PTIN and not a CAF number. Continuing in the program requires compliance with the e-file rules. Publication 3112 is the application publication. Publication 1345 is the handbook for authorized providers.
 
@@ -1051,16 +839,7 @@ flowchart TD
 
 # One-page quick review
 
-```mermaid
-flowchart TD
-  A["If you see the form"] --> B["2848: represent"]
-  A --> C["8821: information only"]
-  A --> D["12153: CDP"]
-  A --> E["9423: CAP"]
-  A --> F["8857: innocent spouse"]
-  A --> G["8379: injured spouse"]
-  A --> H["8879: e-file signature"]
-```
+![Part 3 quick review](illustrations/part-3-quick-review.svg)
 
 **Who may practice.** Attorneys, CPAs, and enrolled agents practice generally. AFSP participants represent only on returns they prepared and signed, and only before revenue agents, customer service representatives, and similar employees, including TAS, during an examination. Enrolled actuaries and enrolled retirement plan agents stay inside their subjects. Without a credential: yourself, immediate family, the employer you work for full time, the partnership you are a general partner of, the entity you officer, and the estate or trust you are fiduciary for. Everyone else needs a power of attorney and a category that covers the forum.
 

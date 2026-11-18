@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="528" viewBox="0 0 1000 528" role="img" aria-label="Practices and procedures">
+<title>Practices and procedures</title>
+<rect x="0.0" y="0.0" width="1000.0" height="528.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="538.0" r="120.0" fill="#0E6B64" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#0E6B64"/>
+<rect x="0.0" y="0.0" width="14.0" height="528.0" fill="#0E6B64"/>
+<text x="40.0" y="46.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">PRACTICES</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Five duties to keep straight</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#0E6B64" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#0E6B64"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P3</text>
+<rect x="40.0" y="128.0" width="296.0" height="176.0" fill="#0E6B64" rx="20" ry="20"/>
+<text x="188.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Who</text>
+<text x="188.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">May practice</text>
+<rect x="352.0" y="128.0" width="296.0" height="176.0" fill="#1D4E89" rx="20" ry="20"/>
+<text x="500.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Duties</text>
+<text x="500.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Conflicts and care</text>
+<rect x="664.0" y="128.0" width="296.0" height="176.0" fill="#7A4E08" rx="20" ry="20"/>
+<text x="812.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Advice</text>
+<text x="812.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Returns and opinions</text>
+<rect x="196.0" y="320.0" width="296.0" height="176.0" fill="#1B3A4B" rx="20" ry="20"/>
+<text x="344.0" y="407.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">PTIN</text>
+<text x="344.0" y="443.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Enrollment and CE</text>
+<rect x="508.0" y="320.0" width="296.0" height="176.0" fill="#8E332C" rx="20" ry="20"/>
+<text x="656.0" y="407.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Sanctions</text>
+<text x="656.0" y="443.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">And the penalties</text>
+</svg>

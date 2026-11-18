@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="446" viewBox="0 0 1000 446" role="img" aria-label="QBI deduction">
+<title>QBI deduction</title>
+<rect x="0.0" y="0.0" width="1000.0" height="446.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="456.0" r="120.0" fill="#1E6840" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#1E6840"/>
+<rect x="0.0" y="0.0" width="14.0" height="446.0" fill="#1E6840"/>
+<text x="40.0" y="46.0" fill="#1E6840" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">QBI</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">The threshold picks the form</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#1E6840" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#1E6840"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="920.0" height="60.0" fill="#1E6840" rx="18" ry="18"/>
+<text x="500.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Where is taxable income?</text>
+<path d="M177.0 198.0 L199.0 198.0 L188.0 210.0 Z" fill="#1E6840"/>
+<rect x="40.0" y="210.0" width="296.0" height="135.0" fill="#0E6B64" rx="18" ry="18"/>
+<text x="188.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">At or below the threshold</text>
+<rect x="64.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="188.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Form 8995, generally</text>
+<text x="188.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">20%</text>
+<path d="M489.0 198.0 L511.0 198.0 L500.0 210.0 Z" fill="#1E6840"/>
+<rect x="352.0" y="210.0" width="296.0" height="135.0" fill="#8E332C" rx="18" ry="18"/>
+<text x="500.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">SSTB over the threshold</text>
+<rect x="376.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="500.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">The deduction phases</text>
+<text x="500.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">out</text>
+<path d="M801.0 198.0 L823.0 198.0 L812.0 210.0 Z" fill="#1E6840"/>
+<rect x="664.0" y="210.0" width="296.0" height="135.0" fill="#1D4E89" rx="18" ry="18"/>
+<text x="812.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Other business over it</text>
+<rect x="688.0" y="256.0" width="248.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="812.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Wage and property limit</text>
+<rect x="40.0" y="361.0" width="920.0" height="51.0" fill="#D7F1E2" rx="16" ry="16"/>
+<text x="500.0" y="393.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">A negative QBI amount carries forward.</text>
+</svg>
