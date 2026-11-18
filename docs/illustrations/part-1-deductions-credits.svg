@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img" aria-label="Deductions and credits">
+<title>Deductions and credits</title>
+<rect x="0.0" y="0.0" width="1000.0" height="510.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="520.0" r="120.0" fill="#7A4E08" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#7A4E08"/>
+<rect x="0.0" y="0.0" width="14.0" height="510.0" fill="#7A4E08"/>
+<text x="40.0" y="46.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">DOMAIN 3</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">AGI, then deductions, then credits</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#7A4E08" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#7A4E08"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="920.0" height="62.0" fill="#7A4E08" rx="16" ry="16"/>
+<circle cx="78.0" cy="159.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="165.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">1</text>
+<text x="112.0" y="166.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Start from adjusted gross income</text>
+<rect x="40.0" y="200.0" width="920.0" height="62.0" fill="#7A4E08" rx="16" ry="16"/>
+<circle cx="78.0" cy="231.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="237.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">2</text>
+<text x="112.0" y="238.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Take the larger: standard or itemized</text>
+<rect x="40.0" y="272.0" width="920.0" height="62.0" fill="#7A4E08" rx="16" ry="16"/>
+<circle cx="78.0" cy="303.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="309.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">3</text>
+<text x="112.0" y="310.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Then the QBI deduction</text>
+<rect x="40.0" y="344.0" width="920.0" height="62.0" fill="#7A4E08" rx="16" ry="16"/>
+<circle cx="78.0" cy="375.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="381.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">4</text>
+<text x="112.0" y="382.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Nonrefundable credits</text>
+<rect x="40.0" y="416.0" width="920.0" height="62.0" fill="#1E6840" rx="16" ry="16"/>
+<circle cx="78.0" cy="447.0" r="18.0" fill="#FFFCF8"/>
+<text x="78.0" y="453.0" fill="#1E6840" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">5</text>
+<text x="112.0" y="454.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">Then the refundable credits</text>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="488" viewBox="0 0 1000 488" role="img" aria-label="Part 3 quick review">
+<title>Part 3 quick review</title>
+<rect x="0.0" y="0.0" width="1000.0" height="488.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="498.0" r="120.0" fill="#1B3A4B" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#1B3A4B"/>
+<rect x="0.0" y="0.0" width="14.0" height="488.0" fill="#1B3A4B"/>
+<text x="40.0" y="46.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">QUICK REVIEW</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">If you see the form, think this</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#1B3A4B" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#1B3A4B"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P3</text>
+<rect x="40.0" y="128.0" width="218.0" height="156.0" fill="#0E6B64" rx="20" ry="20"/>
+<text x="149.0" y="202.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">2848</text>
+<text x="149.0" y="236.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Represent</text>
+<rect x="274.0" y="128.0" width="218.0" height="156.0" fill="#1D4E89" rx="20" ry="20"/>
+<text x="383.0" y="202.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">8821</text>
+<text x="383.0" y="236.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Information only</text>
+<rect x="508.0" y="128.0" width="218.0" height="156.0" fill="#7A4E08" rx="20" ry="20"/>
+<text x="617.0" y="202.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">12153</text>
+<text x="617.0" y="236.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">CDP hearing</text>
+<rect x="742.0" y="128.0" width="218.0" height="156.0" fill="#1B3A4B" rx="20" ry="20"/>
+<text x="851.0" y="202.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">9423</text>
+<text x="851.0" y="236.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">CAP, no Tax Court</text>
+<rect x="157.0" y="300.0" width="218.0" height="156.0" fill="#4E4278" rx="20" ry="20"/>
+<text x="266.0" y="374.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">8857</text>
+<text x="266.0" y="408.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Innocent spouse</text>
+<rect x="391.0" y="300.0" width="218.0" height="156.0" fill="#1E6840" rx="20" ry="20"/>
+<text x="500.0" y="374.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">8379</text>
+<text x="500.0" y="408.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Injured spouse</text>
+<rect x="625.0" y="300.0" width="218.0" height="156.0" fill="#8E332C" rx="20" ry="20"/>
+<text x="734.0" y="374.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">8879</text>
+<text x="734.0" y="408.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">E-file signature</text>
+</svg>

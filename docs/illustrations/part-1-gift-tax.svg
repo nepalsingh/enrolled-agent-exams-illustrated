@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="377" viewBox="0 0 1000 377" role="img" aria-label="Gift tax">
+<title>Gift tax</title>
+<rect x="0.0" y="0.0" width="1000.0" height="377.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="387.0" r="120.0" fill="#0E6B64" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#0E6B64"/>
+<rect x="0.0" y="0.0" width="14.0" height="377.0" fill="#0E6B64"/>
+<text x="40.0" y="46.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">GIFT TAX</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">Present interest gets the exclusion</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#0E6B64" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#0E6B64"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="920.0" height="60.0" fill="#0E6B64" rx="18" ry="18"/>
+<text x="500.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">What kind of transfer is it?</text>
+<path d="M138.0 198.0 L160.0 198.0 L149.0 210.0 Z" fill="#0E6B64"/>
+<rect x="40.0" y="210.0" width="218.0" height="135.0" fill="#0E6B64" rx="18" ry="18"/>
+<text x="149.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Present interest</text>
+<rect x="64.0" y="256.0" width="170.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="149.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">$19,000</text>
+<text x="149.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">exclusion, 2025</text>
+<path d="M372.0 198.0 L394.0 198.0 L383.0 210.0 Z" fill="#0E6B64"/>
+<rect x="274.0" y="210.0" width="218.0" height="135.0" fill="#1D4E89" rx="18" ry="18"/>
+<text x="383.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Over that exclusion</text>
+<rect x="298.0" y="256.0" width="170.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="383.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Form 709; credit</text>
+<text x="383.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">may zero it</text>
+<path d="M606.0 198.0 L628.0 198.0 L617.0 210.0 Z" fill="#0E6B64"/>
+<rect x="508.0" y="210.0" width="218.0" height="135.0" fill="#8E332C" rx="18" ry="18"/>
+<text x="617.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Future interest</text>
+<rect x="532.0" y="256.0" width="170.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="617.0" y="290.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">No exclusion.</text>
+<text x="617.0" y="321.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Form 709</text>
+<path d="M840.0 198.0 L862.0 198.0 L851.0 210.0 Z" fill="#0E6B64"/>
+<rect x="742.0" y="210.0" width="218.0" height="135.0" fill="#1E6840" rx="18" ry="18"/>
+<text x="851.0" y="242.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Paid to the school or</text>
+<text x="851.0" y="264.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">doctor</text>
+<rect x="766.0" y="278.0" width="170.0" height="2.0" fill="#FFFCF8" opacity="0.35"/>
+<text x="851.0" y="312.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Not a gift</text>
+</svg>

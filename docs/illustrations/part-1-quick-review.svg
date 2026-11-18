@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="516" viewBox="0 0 1000 516" role="img" aria-label="Part 1 quick review">
+<title>Part 1 quick review</title>
+<rect x="0.0" y="0.0" width="1000.0" height="516.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="526.0" r="120.0" fill="#1B3A4B" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#1B3A4B"/>
+<rect x="0.0" y="0.0" width="14.0" height="516.0" fill="#1B3A4B"/>
+<text x="40.0" y="46.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">QUICK REVIEW</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">If you see this, think this</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#1B3A4B" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#1B3A4B"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<text x="40.0" y="146.0" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="1.2">SEE</text>
+<text x="548.0" y="146.0" fill="#0E6B64" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" letter-spacing="1.2">THINK</text>
+<rect x="40.0" y="164.0" width="430.0" height="56.0" fill="#7A4E08" rx="14" ry="14"/>
+<rect x="548.0" y="164.0" width="412.0" height="56.0" fill="#0E6B64" rx="14" ry="14"/>
+<path d="M492 184.0 l16 8 l-16 8" fill="none" stroke="#1B3A4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="255.0" y="198.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Child under 17</text>
+<text x="754.0" y="198.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Child tax credit</text>
+<rect x="40.0" y="230.0" width="430.0" height="56.0" fill="#7A4E08" rx="14" ry="14"/>
+<rect x="548.0" y="230.0" width="412.0" height="56.0" fill="#0E6B64" rx="14" ry="14"/>
+<path d="M492 250.0 l16 8 l-16 8" fill="none" stroke="#1B3A4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="255.0" y="264.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Turned 17 this year</text>
+<text x="754.0" y="264.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Not the child tax credit</text>
+<rect x="40.0" y="296.0" width="430.0" height="56.0" fill="#7A4E08" rx="14" ry="14"/>
+<rect x="548.0" y="296.0" width="412.0" height="56.0" fill="#0E6B64" rx="14" ry="14"/>
+<path d="M492 316.0 l16 8 l-16 8" fill="none" stroke="#1B3A4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="255.0" y="330.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Spouse died this year</text>
+<text x="754.0" y="330.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Joint return, not surviving spouse</text>
+<rect x="40.0" y="362.0" width="430.0" height="56.0" fill="#7A4E08" rx="14" ry="14"/>
+<rect x="548.0" y="362.0" width="412.0" height="56.0" fill="#0E6B64" rx="14" ry="14"/>
+<path d="M492 382.0 l16 8 l-16 8" fill="none" stroke="#1B3A4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="255.0" y="396.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Foreign account over $10,000</text>
+<text x="754.0" y="396.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">FBAR, filed with FinCEN</text>
+<rect x="40.0" y="428.0" width="430.0" height="56.0" fill="#7A4E08" rx="14" ry="14"/>
+<rect x="548.0" y="428.0" width="412.0" height="56.0" fill="#0E6B64" rx="14" ry="14"/>
+<path d="M492 448.0 l16 8 l-16 8" fill="none" stroke="#1B3A4B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="255.0" y="462.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Gift of a future interest</text>
+<text x="754.0" y="462.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Form 709, no annual exclusion</text>
+</svg>

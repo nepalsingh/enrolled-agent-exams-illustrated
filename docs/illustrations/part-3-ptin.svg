@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="528" viewBox="0 0 1000 528" role="img" aria-label="PTIN and enrollment">
+<title>PTIN and enrollment</title>
+<rect x="0.0" y="0.0" width="1000.0" height="528.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="538.0" r="120.0" fill="#1B3A4B" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#1B3A4B"/>
+<rect x="0.0" y="0.0" width="14.0" height="528.0" fill="#1B3A4B"/>
+<text x="40.0" y="46.0" fill="#1B3A4B" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">PTIN AND ENROLLMENT</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">The PTIN date is not the enrollment window</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#1B3A4B" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#1B3A4B"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P3</text>
+<rect x="40.0" y="128.0" width="296.0" height="176.0" fill="#0E6B64" rx="20" ry="20"/>
+<text x="188.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Dec 31</text>
+<text x="188.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Renew the PTIN</text>
+<rect x="352.0" y="128.0" width="296.0" height="176.0" fill="#1D4E89" rx="20" ry="20"/>
+<text x="500.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">16</text>
+<text x="500.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Hours each year</text>
+<rect x="664.0" y="128.0" width="296.0" height="176.0" fill="#4E4278" rx="20" ry="20"/>
+<text x="812.0" y="215.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">2</text>
+<text x="812.0" y="251.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Ethics hours a year</text>
+<rect x="40.0" y="320.0" width="296.0" height="176.0" fill="#1B3A4B" rx="20" ry="20"/>
+<text x="188.0" y="407.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">72</text>
+<text x="188.0" y="443.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Hours each cycle</text>
+<rect x="352.0" y="320.0" width="296.0" height="176.0" fill="#7A4E08" rx="20" ry="20"/>
+<text x="500.0" y="407.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">6</text>
+<text x="500.0" y="443.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Ethics hours a cycle</text>
+<rect x="664.0" y="320.0" width="296.0" height="176.0" fill="#1E6840" rx="20" ry="20"/>
+<text x="812.0" y="407.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle">Nov-Jan</text>
+<text x="812.0" y="443.5" fill="#F8EBD4" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">Enrollment renewal</text>
+</svg>

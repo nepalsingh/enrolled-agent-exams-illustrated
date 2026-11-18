@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="491" viewBox="0 0 1000 491" role="img" aria-label="Extra taxes">
+<title>Extra taxes</title>
+<rect x="0.0" y="0.0" width="1000.0" height="491.0" fill="#F7F3EB"/>
+<circle cx="992.0" cy="501.0" r="120.0" fill="#8E332C" opacity="0.08"/>
+<rect x="0.0" y="0.0" width="1000.0" height="8.0" fill="#8E332C"/>
+<rect x="0.0" y="0.0" width="14.0" height="491.0" fill="#8E332C"/>
+<text x="40.0" y="46.0" fill="#8E332C" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="1.4">EXTRA TAXES</text>
+<text x="40.0" y="90.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="start">AMT, NIIT, and the Medicare add-on</text>
+<rect x="40.0" y="106.0" width="68.0" height="5.0" fill="#8E332C" rx="2" ry="2"/>
+<circle cx="954.0" cy="42.0" r="24.0" fill="#8E332C"/>
+<text x="954.0" y="47.5" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">P1</text>
+<rect x="40.0" y="128.0" width="296.0" height="262.0" fill="#E7E0F7" rx="18" ry="18"/>
+<rect x="40.0" y="128.0" width="296.0" height="86.0" fill="#4E4278" rx="18" ry="18"/>
+<rect x="40.0" y="196.0" width="296.0" height="18.0" fill="#4E4278"/>
+<text x="188.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">AMT</text>
+<rect x="54.0" y="228.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="188.0" y="255.5" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">ISO bargain element</text>
+<rect x="54.0" y="278.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="188.0" y="305.0" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Private-activity bond interest</text>
+<rect x="54.0" y="328.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="188.0" y="355.5" fill="#4E4278" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Run Form 6251</text>
+<rect x="352.0" y="128.0" width="296.0" height="262.0" fill="#D9E7F6" rx="18" ry="18"/>
+<rect x="352.0" y="128.0" width="296.0" height="86.0" fill="#1D4E89" rx="18" ry="18"/>
+<rect x="352.0" y="196.0" width="296.0" height="18.0" fill="#1D4E89"/>
+<text x="500.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">NIIT</text>
+<rect x="366.0" y="228.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="500.0" y="255.5" fill="#1D4E89" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Investment income</text>
+<rect x="366.0" y="278.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="500.0" y="305.5" fill="#1D4E89" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">MAGI over the threshold</text>
+<rect x="366.0" y="328.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="500.0" y="355.5" fill="#1D4E89" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Form 8960</text>
+<rect x="664.0" y="128.0" width="296.0" height="262.0" fill="#F8E6C4" rx="18" ry="18"/>
+<rect x="664.0" y="128.0" width="296.0" height="86.0" fill="#7A4E08" rx="18" ry="18"/>
+<rect x="664.0" y="196.0" width="296.0" height="18.0" fill="#7A4E08"/>
+<text x="812.0" y="166.0" fill="#FFFCF8" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Add'l Medicare</text>
+<rect x="678.0" y="228.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="812.0" y="255.5" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Earned income</text>
+<rect x="678.0" y="278.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="812.0" y="305.5" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Over the threshold</text>
+<rect x="678.0" y="328.0" width="268.0" height="42.0" fill="#FFFCF8" rx="12" ry="12"/>
+<text x="812.0" y="355.5" fill="#7A4E08" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Form 8959</text>
+<rect x="40.0" y="406.0" width="920.0" height="51.0" fill="#F8DCD6" rx="16" ry="16"/>
+<text x="500.0" y="438.0" fill="#1C2430" font-family="Inter, 'Noto Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Income in respect of a decedent is taxed to the recipient.</text>
+</svg>
